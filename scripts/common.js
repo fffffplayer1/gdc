@@ -19,9 +19,9 @@ document.getElementById('navbar').innerHTML ='  <a href="'+dots+'index.html">Hom
 <a href="'+dots+'lmbtopics/classics.html">Classics</a>    \
 <a href="#">Link 3</a>  \
 </div> </div> \
-<a href="'+dots+'index.html">Members</a>\
-<a href="'+dots+'index.html">Archive FAQ</a>\
-<a href="'+dots+'index.html">About</a>	 </div>';
+<a href="'+dots+'members.html">Members</a>\
+<a href="'+dots+'archivefaq.html">Archive FAQ</a>\
+<a href="'+dots+'about.html">About</a>	 </div>';
 document.getElementById('header').innerHTML = '<center><a href="'+dots+'index.html"><img src="'+dots+'../images/GDC.png" alt="GDC" style="width:140px;height:117px;"></a></center>';
 
 function visitLink1(){
