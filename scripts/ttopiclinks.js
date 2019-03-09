@@ -1,3 +1,18 @@
+/*document.getElementById('myid').innerHTML = 10;
+
+var maxpage = document.getElementById('link_'+(18+i)).innerHTML;
+var i;
+for (i=1; i<=maxpage; ++i){
+	var elems = document.getElementsByClassName('lia-js-data-pageNum-'+i+' lia-link-navigation lia-custom-event');
+	var j;
+	for (j=0; j<elems.length; ++j){
+		var elem = elems[j].outerHTML;
+		var elemp = elem.split("https://community.lego.com/t5/");
+		var elemp2 = elemp[1].split("page/");
+		elem.outerHTML = elemp[0]+elemp2[1];	
+	}
+}	*/
+
 var filename = location.href.split("/").slice(-1);
 var pagenumber = parseInt(String(filename).split(".")[0], 10);
 var pagenumber2 = pagenumber;
@@ -92,4 +107,4 @@ else {
     for (j=0; j<elems.length; ++j){
         elems[j].outerHTML = '<a class="lia-js-data-pageNum-1 lia-link-navigation lia-custom-event" id="link_12" href="'+pagenumber3+'">1</a>';
 	}
-}	
+}

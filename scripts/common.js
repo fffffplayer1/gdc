@@ -7,7 +7,8 @@ document.getElementById('head').innerHTML = document.getElementById('head').inne
 <link rel='stylesheet' href='"+dots+"../css/slideshow.css'></link>";
 document.getElementById('navbar').innerHTML ='  <a href="'+dots+'index.html">Home</a>\
 <div class="dropdown"><button class="dropbtn" onclick="visitLink1()" onmouseover="navbarLink(this)" onmouseout="navbarLinkOut(this)">Wikis</button>\
-<div class="dropdown-content">  <a href="http://kotos.wikia.com/wiki/Knights_of_the_Olde_Speech_Wikia">Knights of the Olde Speech</a>   \
+<div class="dropdown-content">  \
+<a href="http://kotos.wikia.com/wiki/Knights_of_the_Olde_Speech_Wikia">Knights of the Olde Speech</a>   \
 <a href="http://poaseries.wikia.com/wiki/Power_of_Ages_Wiki">Power of Ages</a>  \
 <a href="http://shadow-book-stories.wikia.com/wiki/The_Shadow_Book_Wiki">Shadow Book</a> \
 <a href="http://chanora-and-the-cod.wikia.com/wiki/Chanora_and_the_C.O.D_Wiki">Chanora and the C.O.D.</a>  \

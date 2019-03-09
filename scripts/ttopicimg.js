@@ -41,6 +41,14 @@ for (j=0; j<elems.length; ++j){
 elems = document.getElementsByClassName('lia-user-rank-icon lia-user-rank-icon-left');
 for (j=0; j<elems.length; ++j){
 	var elem = elems[j].outerHTML;
-	var elemp = elem.split('https://lego.i.lithium.com/html/rank_icons/');
+	var elemp;
+	if (elem.indexOf('assets') == -1) elemp = elem.split('https://lego.i.lithium.com/html/rank_icons/');
+	else elemp = elem.split('https://lego.i.lithium.com/html/assets/');
 	elems[j].outerHTML = elemp[0]+'../../images/'+elemp[1];
+}
+elems = document.getElementsByClassName('lia-link-navigation hidden live-links');
+for (j=0; j<elems.length; ++j){
+	var elem = elems[j].outerHTML;
+	elem = elem + '<link rel="icon" href="../../images/favicon.png" type="image/png"/>';
+	elems[j].outerHTML = elem;
 }
