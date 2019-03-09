@@ -1,0 +1,154 @@
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+background-image: url("../images/QuackenKOTOS2.png");
+background-color: #AFE6FB;
+background-size: 100%;
+background-attachment: fixed;
+display: flex;
+flex-direction: column;
+min-height: 100vh;
+}
+
+/* Dropdown CSS from w3schools */
+
+ /* Navbar container */
+.navbar {
+  overflow: hidden;
+  background-color: #111142;
+  font-family: Arial;
+  border-radius: 20px / 15px;
+  z-index: 1;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+ 
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  color: white;
+  background-color: #111132;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  position:absolute;
+  display: none;
+  background-color: #97CEF4;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 10;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  color: black;
+  text-decoration: none;
+  background-color: #A5DAEF;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+} 
+
+
+.main-content {
+	background-color: rgba(151, 206, 244, 0.6);
+	background-image: none;
+	max-width: 84%;
+	flex: 1;
+	color: black;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin: 10px;
+	padding: 15px;
+	position:relative;
+	left: 8%;
+	
+}
+
+.row:after{
+	display: table;
+	content:""
+	clear: both;
+}
+
+.left-column{
+	float: left;
+	width: 60%;
+	padding: 15px;
+}
+.right-column{
+	width: 40%;
+	float: right;
+	padding: 15px;
+}
+
+@media screen and (max-width: 600px) {
+    .left-column .right-column {
+        width: 100%;
+    }
+}
+
+h1{
+    font-family: Algerian;
+	font-size: 36px;
+}
+h2{
+	font-family: Chiller;
+}
+
+p{
+	font: "Times New Roman";
+	font-size: 16px;
+}
+
+a:hover{
+  color: #5022e8;
+  text-decoration: underline;
+
+}
+a{
+  color: #25015b;
+  text-decoration: none;
+
+}
