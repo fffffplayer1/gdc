@@ -103,7 +103,7 @@ min-height: 100vh;
 	padding: 15px;
 	position:relative;
 	left: 8%;
-	
+	border-radius: 5px / 5px;
 }
 
 .row:after{
@@ -151,4 +151,12 @@ a{
   color: #25015b;
   text-decoration: none;
 
+}
+.navbar-link{
+	padding: default;
+}
+
+.hover-nav-link {
+	text-decoration: underline;
+	cursor: pointer;
 }

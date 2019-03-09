@@ -2,7 +2,7 @@ var filename = location.href.split("/").slice(-1);
 var pagenumber = parseInt(String(filename).split(".")[0], 10);
 var pagenumber2 = pagenumber;
 if (pagenumber > 10000) pagenumber = 1;
-var pagenumber3 = parseInt(String(location.href.split("/").slice(-2)), 10);	
+var pagenumber3 = parseInt(String(location.href.split("/").slice(-2, -1)), 10);	
 var linknumber;
 var i=0;
 if (document.getElementById('link_19').innerHTML.split(">")[1] == 'Next</span') linknumber=11;
