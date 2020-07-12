@@ -1,0 +1,5445 @@
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#" dir="ltr" lang="en" class="no-js">
+	<head>
+	
+	<title> Moving Targets - LEGO</title>
+	
+	    
+<script type="text/javascript">
+    var mbDynGlobals = {
+        stylesheetName: 'default',
+        devMode: 'false'
+    };
+</script>
+
+	
+	
+	
+	<meta content="I have not written here for years. literally.   The tale I am about to tell is set in a distopian future, where stromlings and the war are a thing of" name="description"/><meta content="2015-02-16T20:14:20+01:00" itemprop="dateModified"/><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/><link href="https://community.lego.com/t5/LEGO-UNIVERSE/Moving-Targets/td-p/12044279" rel="canonical"/>
+	<meta content="https://community.lego.com/t5/user/viewprofilepage/user-id/1702943" property="article:author"/><meta content="article" property="og:type"/><meta content="https://community.lego.com/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12044279#M513216" property="og:url"/><meta content="LEGO UNIVERSE" property="article:section"/><meta content="I have not written here for years. literally.   The tale I am about to tell is set in a distopian future, where stromlings and the war are a thing of the past and tales to scare children. but a conspiracy is unearthed that could change everything, and shatter that which has been fragilely built over..." property="og:description"/><meta content="2015-01-29T21:08:17.853Z" property="article:published_time"/><meta content="2015-02-16T20:14:20+01:00" property="article:modified_time"/><meta content="Moving Targets" property="og:title"/>
+	
+	
+		<link class="lia-link-navigation hidden live-links" title="topic Moving Targets in LEGO UNIVERSE" type="application/rss+xml" rel="alternate" id="link" href="/lego/rss/message?board.id=1440&amp;message.id=513216"></link>
+	
+
+		
+			
+		<link rel="stylesheet" href="../../../../css/main.css" type="text/css"> <link rel="stylesheet" href="../../../../css/blob.css" type="text/css"> <link rel="stylesheet" href="../../../../css/mod.css" type="text/css">
+	
+
+	
+	
+	
+	
+	
+    
+    
+
+
+    
+
+    
+    
+<script type="text/javascript">
+    
+    var mbGlobals = {
+        stylesheetName: '',
+        devMode: 'false'
+    };
+    
+    if (typeof mbDynGlobals !== 'undefined') {
+        if (mbDynGlobals.stylesheetName) {
+            mbGlobals.stylesheetName = mbDynGlobals.stylesheetName;
+        }
+        if (mbDynGlobals.devMode) {
+            mbGlobals.devMode = mbDynGlobals.devMode;
+        }
+    }
+    mbGlobals.devBlock = 'true';
+    mbGlobals.dtNow = '1464888442205';
+    mbGlobals.env = '';
+    mbGlobals.cacheHost = 'lego.com/go/17';
+    mbGlobals.pageLang = 'en';
+    mbGlobals.pageName = 'ForumTopicPage';
+    mbGlobals.myProfile = 'false';
+    mbGlobals.textKudo = 'Like';
+    mbGlobals.textKudoed = 'Liked';
+    mbGlobals.userRegistered = 'false';
+    mbGlobals.advancedSearch = 'false';
+    mbGlobals.locCookieName = 'PROMARKETPREF';
+    mbGlobals.cookieLang = 'none';
+    
+    mbGlobals.css = [];
+    mbGlobals.js = [];
+    mbGlobals.bodyJs = [];
+    
+    mbGlobals.css.push({src: 'https://lego.i.lithium.com/html/assets/font.min.css?0D85D3AF04F14F5080EB80F8E742B9EC'});
+    
+    mbGlobals.css.push({src: 'https://wwwsecure.lego.com/de-de/designs/shared/global/css/buttons.aspx?context=community',
+                        lang: 'de'});
+    
+    mbGlobals.css.push({src: 'https://wwwsecure.lego.com/en-us/designs/shared/global/css/buttons.aspx?context=community',
+                        lang: 'en'});
+    
+    mbGlobals.css.push({src: 'https://{{cacheHost}}/designs/shared/global/css/global.css',
+                        type: 'dynamic'});
+    
+    mbGlobals.css.push({src: 'https://{{cacheHost}}/designs/shared/colorbox/css/colorbox-core.css',
+                        type: 'dynamic'});
+    
+    mbGlobals.css.push({src:'https://{{cacheHost}}/designs/shared/colorbox/css/colorbox-presentation.css',
+                        type: 'dynamic'});
+    
+    mbGlobals.css.push({src: 'https://lego.i.lithium.com/html/assets/default.css?60B112FA792FA89204E108567C1A6CC2'});
+    
+    mbGlobals.css.push({src: 'http://localhost:8000/css/responsive.css', 
+                        env: 'dev'});
+    
+    mbGlobals.css.push({src: 'https://lego.i.lithium.com/html/assets/responsive.css?0CB317C47F27F3D91C5F6DB2D9315191', 
+                        env: 'dev'});
+    
+    mbGlobals.css.push({src: '/html/assets/{{stylesheetName}}.css', 
+                       type: 'dynamic'});
+    
+    mbGlobals.css.push({src: 'http://localhost:8000/css/styles.css', 
+                        env: 'local'});
+    
+    mbGlobals.css.push({src: '/html/assets/{{stylesheetName}}_de.css',
+                        lang: 'de',
+                        type: 'dynamic'});
+    
+    mbGlobals.css.push({src: 'http://localhost:8000/css/styles_de.css', 
+                        env: 'local',
+                        lang: 'de'});
+    
+    
+    
+    mbGlobals.js.push({src: 'https://lego.i.lithium.com/html/assets/jquery.min.js?4D1E8C7D43DF00F2ABB68BE9CE261E74'});
+    mbGlobals.js.push({src: 'https://lego.i.lithium.com/html/assets/jquery-ui.min.js?3962626B498A7301ECE9F2D1F0E186FB'});
+    
+    mbGlobals.js.push({src: 'http://localhost:8000/js/responsive.js', 
+                        env: 'local'});
+    
+    mbGlobals.js.push({src: 'https://lego.i.lithium.com/html/assets/responsive.js?967581C0509EF805573F1C721375CA67', 
+                        env: 'dev'});
+    
+    mbGlobals.js.push({src: 'https://lego.i.lithium.com/html/assets/jquery.expander.min.js?8F9B05C2E0D75F39563E5BAD8B98A412'});
+    
+    
+    mbGlobals.bodyJs.push({src:'https://{{cacheHost}}/designs/shared/colorbox/scripts/jquery.colorbox.js', 
+                        type: 'dynamic'});
+    
+    // Header    
+    mbGlobals.bodyJs.push({src:'https://{{cacheHost}}/r/www/r/globalnavigationservices/api/v1/global/scripts/de-de/lego.global.javascriptwrapper/community?l.r2=1.1.2.319',
+                        type: 'dynamic',
+                        lang: 'de'});
+    
+    mbGlobals.bodyJs.push({src:'https://{{cacheHost}}/r/www/r/globalnavigationservices/api/v1/global/scripts/en-us/lego.global.javascriptwrapper/community?l.r2=1.1.2.319',
+                        type: 'dynamic',
+                        lang: 'en'});
+
+mbGlobals.bodyJs.push({src: 'https://lego.i.lithium.com/html/assets/community.dom.js?57DDDE3D01F710E9AD98375F0A7C2566'});
+    
+    mbGlobals.bodyJs.push({src:'https://{{cacheHost}}/r/www/r/Analytics/modules/trackmanapi',
+                        type: 'dynamic',
+                        attr: {
+                            name: 'data-tracking-script',
+                            value: 'https://lego.i.lithium.com/html/assets/community.trackman.js?4728CA534793FAF79E328DFF866BD0DE'
+                        }});
+    
+    
+    
+    
+</script>
+
+
+<script type="text/javascript" src="https://lego.i.lithium.com/html/assets/assetsloader.js?A2C536C66772F4228F10E0C666A029C6"></script>
+
+<link rel='shortcut icon' href='https://lego.i.lithium.com/html/assets/favicon.ico?4F01A9105F3905E5E9376099C3B581AF' />
+
+<script type="text/javascript" src="https://lego.i.lithium.com/t5/scripts/29FCD648852BCCE23A0DBE262F895F9D/lia-scripts-head-min.js"></script><script language="javascript" type="text/javascript">
+<!--
+LITHIUM.DEBUG = false;
+LITHIUM.CommunityJsonObject = {
+  "Validation" : {
+    "image.description" : {
+      "min" : 0,
+      "max" : 1000,
+      "type" : "string"
+    }
+  },
+  "WebTracking" : {
+    "Activities" : { },
+    "path" : "Community:LEGO/Category:LEGO Message Boards/Category:CLASSICS Category/Board:LEGO UNIVERSE/Message:Moving Targets"
+  },
+  "User" : {
+    "settings" : {
+      "imageupload.legal_file_extensions" : "*.jpg;*.JPG;*.jpeg;*.JPEG;*.gif;*.GIF;*.png;*.PNG",
+      "config.enable_avatar" : true,
+      "integratedprofile.show_klout_score" : true,
+      "layout.sort_view_by_last_post_date" : true,
+      "layout.friendly_dates_enabled" : true,
+      "layout.format_pattern_date" : "MM-dd-yyyy",
+      "isUserLinked" : false,
+      "integratedprofile.cta_add_topics_dismissal_timestamp" : -1,
+      "layout.message_body_image_max_size" : 1000,
+      "config.confirm_new_post" : false,
+      "integratedprofile.cta_connect_wide_dismissal_timestamp" : -1,
+      "contest.entries_per_page_num" : 20,
+      "layout.messages_per_page_linear" : 23,
+      "integratedprofile.cta_manage_topics_dismissal_timestamp" : -1,
+      "profile.shared_profile_test_group" : false,
+      "integratedprofile.cta_personalized_feed_dismissal_timestamp" : -1,
+      "contest.one_kudo_per_contest" : false,
+      "integratedprofile.enable_social_networks" : false,
+      "profile.language" : "en",
+      "layout.friendly_dates_max_age_days" : 30,
+      "layout.threading_order" : "thread_descending",
+      "layout.module_welcome" : "Welcome to the LEGO.com Community Message Boards! Please pick a forum and start chatting.",
+      "imageupload.max_uploaded_images_per_upload" : 100,
+      "imageupload.max_uploaded_images_per_user" : 1000,
+      "integratedprofile.connect_mode" : "",
+      "sharedprofile.show_hovercard_score" : true,
+      "config.search_before_post_scope" : "board",
+      "imageupload.max_file_size" : 3072,
+      "layout.show_batch_checkboxes" : false,
+      "integratedprofile.cta_connect_slim_dismissal_timestamp" : -1,
+      "config.force_search_before_post" : false
+    },
+    "isAnonymous" : true,
+    "policies" : {
+      "image-upload.process-and-remove-exif-metadata" : false
+    },
+    "registered" : false,
+    "emailRef" : "",
+    "id" : -1,
+    "login" : "Anonymous"
+  },
+  "Server" : {
+    "communityPrefix" : "/lego",
+    "tapestryPrefix" : "/t5",
+    "deviceMode" : "DESKTOP",
+    "responsiveDeviceMode" : "DESKTOP",
+    "showTextKeys" : false
+  },
+  "Config" : {
+    "phase" : "prod",
+    "integratedprofile.cta.reprompt.delay" : 30,
+    "app.revision" : 304743
+  },
+  "Activity" : {
+    "Results" : [ ]
+  },
+  "NodeContainer" : {
+    "viewHref" : "https://community.lego.com/t5/CLASSICS-Category/ct-p/Classics",
+    "description" : "",
+    "id" : "Classics",
+    "shortTitle" : "CLASSICS Category",
+    "title" : "CLASSICS Category",
+    "nodeType" : "Category"
+  },
+  "Page" : {
+    "skins" : [
+      "lego_default_v4:desktop:generic:generic_mobile:generic_xhtml:generic_android_ver2:generic_android_ver2_1:generic_android_ver2_2:generic_android_ver2_3:generic_android_ver2_4:generic_android_ver4:generic_android_ver4_1:generic_android_ver4_2:generic_android_ver4_3:generic_android_ver4_4:generic_android_ver5_0:generic_android_ver5_1:generic_android_ver5_2:generic_android_ver5_3:generic_android_ver6_0:lg_nexus_5x_ver1",
+      "lego_default_v4",
+      "lego_default",
+      "base"
+    ],
+    "authUrls" : {
+      "loginUrl" : "/auth/securityCheck?action=login&referrer=https%3A%2F%2Fcommunity.lego.com%2Ft5%2FLEGO-UNIVERSE%2FMoving-Targets%2Fm-p%2F12044279%2Fthread-id%2F513216",
+      "loginUrlNotRegistered" : "/auth/securityCheck?action=login&redirectreason=notregistered&referrer=https%3A%2F%2Fcommunity.lego.com%2Ft5%2FLEGO-UNIVERSE%2FMoving-Targets%2Fm-p%2F12044279%2Fthread-id%2F513216",
+      "loginUrlNotRegisteredDestTpl" : "/auth/securityCheck?action=login&redirectreason=notregistered&referrer=%7B%7BdestUrl%7D%7D"
+    },
+    "name" : "ForumTopicPage",
+    "object" : {
+      "viewHref" : "/t5/LEGO-UNIVERSE/Moving-Targets/td-p/12044279",
+      "subject" : "Moving Targets",
+      "id" : 12044279,
+      "page" : "ForumTopicPage",
+      "type" : "Thread"
+    }
+  },
+  "TopLevelNode" : {
+    "viewHref" : "https://community.lego.com/t5/LEGO-Message-Boards/ct-p/1001",
+    "description" : "Welcome to the award winning LEGO.com Message Boards. Inside, you can find a very safe, fun and friendly community of LEGO enthusiasts.",
+    "id" : "1001",
+    "shortTitle" : "LEGO Message Boards",
+    "title" : "LEGO Message Boards",
+    "nodeType" : "Category"
+  },
+  "Community" : {
+    "viewHref" : "https://community.lego.com/",
+    "integratedprofile.lang_code" : "en",
+    "integratedprofile.country_code" : "US",
+    "id" : "lego",
+    "shortTitle" : "LEGO",
+    "title" : "LEGO"
+  },
+  "CoreNode" : {
+    "conversationStyle" : "forum",
+    "viewHref" : "https://community.lego.com/t5/LEGO-UNIVERSE/bd-p/1440",
+    "description" : "Discuss your memories of LEGO Universe and keep in touch with LU friends.",
+    "id" : "1440",
+    "shortTitle" : "LEGO UNIVERSE",
+    "title" : "LEGO UNIVERSE",
+    "nodeType" : "Board",
+    "ancestors" : [
+      {
+        "viewHref" : "https://community.lego.com/t5/CLASSICS-Category/ct-p/Classics",
+        "description" : "",
+        "id" : "Classics",
+        "shortTitle" : "CLASSICS Category",
+        "title" : "CLASSICS Category",
+        "nodeType" : "Category"
+      },
+      {
+        "viewHref" : "https://community.lego.com/t5/LEGO-Message-Boards/ct-p/1001",
+        "description" : "Welcome to the award winning LEGO.com Message Boards. Inside, you can find a very safe, fun and friendly community of LEGO enthusiasts.",
+        "id" : "1001",
+        "shortTitle" : "LEGO Message Boards",
+        "title" : "LEGO Message Boards",
+        "nodeType" : "Category"
+      },
+      {
+        "viewHref" : "https://community.lego.com/",
+        "description" : "",
+        "id" : "lego",
+        "shortTitle" : "LEGO",
+        "title" : "LEGO",
+        "nodeType" : "Community"
+      }
+    ]
+  }
+};
+LITHIUM.Components.RENDER_URL = '/t5/util/componentrenderpage/component-id/#{component-id}?render_behavior=raw';
+LITHIUM.Css = {
+  "BASE_DEFERRED_IMAGE" : "lia-deferred-image",
+  "BASE_BUTTON" : "lia-button",
+  "BASE_SPOILER_CONTAINER" : "lia-spoiler-container",
+  "BASE_TABS_INACTIVE" : "lia-tabs-inactive",
+  "BASE_TABS_ACTIVE" : "lia-tabs-active",
+  "BASE_AJAX_REMOVE_HIGHLIGHT" : "lia-ajax-remove-highlight",
+  "BASE_FEEDBACK_SCROLL_TO" : "lia-feedback-scroll-to",
+  "BASE_FORM_FIELD_VALIDATING" : "lia-form-field-validating",
+  "BASE_FORM_ERROR_TEXT" : "lia-form-error-text",
+  "BASE_FEEDBACK_INLINE_ALERT" : "lia-panel-feedback-inline-alert",
+  "BASE_BUTTON_OVERLAY" : "lia-button-overlay",
+  "BASE_TABS_STANDARD" : "lia-tabs-standard",
+  "BASE_AJAX_SUCCESS_HIGHLIGHT" : "lia-ajax-success-highlight",
+  "BASE_CONTENT" : "lia-content",
+  "BASE_JS_HIDDEN" : "lia-js-hidden",
+  "BASE_AJAX_LOADER_CONTENT_OVERLAY" : "lia-ajax-loader-content-overlay",
+  "BASE_FORM_FIELD_SUCCESS" : "lia-form-field-success",
+  "BASE_FORM_WARNING_TEXT" : "lia-form-warning-text",
+  "BASE_FORM_FIELD_ERROR" : "lia-form-field-error",
+  "BASE_SPOILER_CONTENT" : "lia-spoiler-content",
+  "BASE_FORM_SUBMITTING" : "lia-form-submitting",
+  "BASE_EFFECT_HIGHLIGHT_START" : "lia-effect-highlight-start",
+  "BASE_FORM_FIELD_ERROR_NO_FOCUS" : "lia-form-field-error-no-focus",
+  "BASE_EFFECT_HIGHLIGHT_END" : "lia-effect-highlight-end",
+  "BASE_SPOILER_LINK" : "lia-spoiler-link",
+  "FACEBOOK_LOGOUT" : "lia-component-users-action-logout",
+  "BASE_DISABLED" : "lia-link-disabled",
+  "FACEBOOK_SWITCH_USER" : "lia-component-admin-action-switch-user",
+  "BASE_FORM_FIELD_WARNING" : "lia-form-field-warning",
+  "BASE_AJAX_LOADER_FEEDBACK" : "lia-ajax-loader-feedback",
+  "BASE_AJAX_LOADER_OVERLAY" : "lia-ajax-loader-overlay",
+  "BASE_LAZY_LOAD" : "lia-lazy-load"
+};
+LITHIUM.noConflict = true;
+LITHIUM.useCheckOnline = false;
+LITHIUM.RenderedScripts = [
+  "jquery.ui.resizable.js",
+  "jquery.js",
+  "jquery.effects.core.js",
+  "NoConflict.js",
+  "json2.js",
+  "jquery.ui.draggable.js",
+  "SpoilerToggle.js",
+  "Tooltip.js",
+  "Lithium.js",
+  "SearchForm.js",
+  "jquery.ui.position.js",
+  "Throttle.js",
+  "jquery.iframe-shim-1.0.js",
+  "control.js",
+  "AC_RunActiveContent.js",
+  "jquery.ui.dialog.js",
+  "jquery.iframe-transport.js",
+  "ResizeImages.js",
+  "jquery.fileupload.js",
+  "ElementMethods.js",
+  "InformationBox.js",
+  "jquery.autocomplete.js",
+  "Placeholder.js",
+  "jquery.hoverIntent-r6.js",
+  "ForceLithiumJQuery.js",
+  "LiModernizr.js",
+  "Forms.js",
+  "AjaxFeedback.js",
+  "jquery.js",
+  "jquery.appear-1.1.1.js",
+  "AutoComplete.js",
+  "jquery.tools.tooltip-1.2.5.js",
+  "jquery.delayToggle-1.0.js",
+  "Globals.js",
+  "Video.js",
+  "jquery.function-utils-1.0.js",
+  "jquery.lithium-selector-extensions.js",
+  "jquery.ui.core.js",
+  "jquery.viewport-1.0.js",
+  "jquery.blockui.js",
+  "jquery.position-toggle-1.0.js",
+  "DeferredImages.js",
+  "MessageViewDisplay.js",
+  "jquery.ui.widget.js",
+  "Components.js",
+  "PolyfillsAll.js",
+  "Namespace.js",
+  "Text.js",
+  "jquery.clone-position-1.0.js",
+  "Cache.js",
+  "Link.js",
+  "MessageBodyDisplay.js",
+  "Events.js",
+  "jquery.ajax-cache-response-1.0.js",
+  "jquery.scrollTo.js",
+  "DropDownMenu.js",
+  "Loader.js",
+  "Auth.js",
+  "jquery.effects.slide.js",
+  "jquery.tmpl-1.1.1.js",
+  "Sandbox.js",
+  "jquery.ui.mouse.js",
+  "SearchAutoCompleteToggle.js",
+  "jquery.css-data-1.0.js",
+  "AjaxSupport.js",
+  "jquery.placeholder-2.0.7.js"
+];// -->
+</script></head>
+	<body class="lia-board lia-user-status-anonymous ForumTopicPage lia-body" id="lia-body">
+	
+	<div id="E4BCAD7D" class="ServiceNodeInfoHeader">
+</div>
+	
+	
+	
+	
+
+	<div class="lia-page">
+		<center>
+			
+				
+					
+	
+	<div class="MinimumWidthContainer">
+		<div class="min-width-wrapper">
+			<div class="min-width">		
+				
+						<div class="lia-content">
+                            
+							
+							
+		
+   	<div class="lia-quilt lia-quilt-forum-topic-page lia-quilt-layout-one-column lia-top-quilt">
+	<div class="lia-quilt-row lia-quilt-row-header">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-header">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+	
+		
+			<div class="lia-quilt lia-quilt-header lia-quilt-layout-header lia-component-quilt-header" class="lia-quilt lia-quilt-header lia-quilt-layout-header">
+	<div class="lia-quilt-row lia-quilt-row-title">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-breadcrumb">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+	
+		
+			<div class="BreadCrumb crumb-line lia-breadcrumb lia-component-common-widget-breadcrumb" aria-label="breadcrumbs" role="navigation" class="BreadCrumb crumb-line lia-breadcrumb">
+	<ul id="list" class="lia-list-standard-inline">
+	
+		
+			<li class="lia-breadcrumb-node crumb">						
+				<a class="lia-link-navigation crumb-category lia-breadcrumb-category lia-breadcrumb-forum" id="link_0" href="/t5/LEGO-Message-Boards/ct-p/1001">LEGO Message Boards</a>
+			</li>
+			
+				<li aria-hidden="true" class="lia-breadcrumb-seperator crumb-category lia-breadcrumb-category lia-breadcrumb-forum">
+				  
+          		  		<span class="separator">:</span>
+          		  
+				</li>					
+							
+		
+			<li class="lia-breadcrumb-node crumb">						
+				<a class="lia-link-navigation crumb-category lia-breadcrumb-category lia-breadcrumb-forum" id="link_1" href="/t5/CLASSICS-Category/ct-p/Classics">CLASSICS Category</a>
+			</li>
+			
+				<li aria-hidden="true" class="lia-breadcrumb-seperator crumb-category lia-breadcrumb-category lia-breadcrumb-forum">
+				  
+          		  		<span class="separator">:</span>
+          		  
+				</li>					
+							
+		
+			<li class="lia-breadcrumb-node crumb">						
+				<a class="lia-link-navigation crumb-board lia-breadcrumb-board lia-breadcrumb-forum" id="link_2" href="/t5/LEGO-UNIVERSE/bd-p/1440">LEGO UNIVERSE</a>
+			</li>
+			
+				<li aria-hidden="true" class="lia-breadcrumb-seperator crumb-board lia-breadcrumb-board lia-breadcrumb-forum">
+				  
+          		  		<span class="separator">:</span>
+          		  
+				</li>					
+							
+		
+			<li class="lia-breadcrumb-node crumb final-crumb">						
+				<span class="lia-link-navigation child-thread lia-link-disabled" id="link_3">Moving Targets</span>
+			</li>
+							
+		
+	
+</ul>	
+</div>
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-feedback">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-title">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+	
+		
+			<a class="lego-custom-banner" href="/">&nbsp;</a>
+		
+			
+	
+
+	
+
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-search">
+		<div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-left lia-quilt-column-search-bar">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+	
+		
+			<div class="SearchForm lia-search-form-wrapper lia-mode-default lia-component-common-widget-search-form" id="lia-searchform" class="SearchForm lia-search-form-wrapper lia-mode-default">
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+		<div id="searchautocompletetoggle">	
+	
+		
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_0"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+			
+			<form enctype="multipart/form-data" class="lia-form lia-form-inline SearchForm" action="https://community.lego.com/t5/forums/forumtopicpage.searchform.form.form" method="post" id="form" name="form"><div class="t-invisible"><input value="board-id/1440/message-id/513216/thread-id/513216" name="t:ac" type="hidden"></input><input value="search/contributions/page" name="t:cp" type="hidden"></input><input value="DnD9rxf8TF9IvLQAZ-dp8X1yNFslXnUryXUSH3oiD_d4y1q28azt14ZqXooRR27MD68mpMRYQ47BG-KEK0PY6990wJpcPAKPGStbEhaoy2SRoYcdpG1bHo9vZUoGsOx8xW25QYRE3R0JBxOlRwDPqQ9tqrEBzCoerO2gve2sJqOQCaIKakJ_HLfzvRcdv34mONtcrJZPrRtRBkue19Rut3lKHiKSzWciZEDWzc65G72cQkQp5s_i3OnRxCm3-DFctD0N56FBomIXOPjsl6OMLZTDdthW4X-U6boJtmiJV8bnz7ESM62WXaZQ0Yipg8TbPFOLvZudFuD3pnPNyQYTJU-nKbRqERtavhip61A8KK1YQdOLXmROOHuDxijREtEr1Azpl9TtjBSNG-Jbt4dqfGlOBET3PX0iN737zkr2r6sX_GiK8x6xGhL4jrNYAm9Vw8WvLvJ5eqMqJ1eoW6PC0F7ygz_oZBxS1s5SFnEVy4vZeVVY0I-De-MmWgKKIQ1Nz4ZDMdwneWuUUoe4m_wrnKNywbLPi7zKNu7XIeZKp4UBxP9o5MPBtdMuqIRwDJBffL4stRxAW0DvfM7aZUzwIpx_FDSh9Ddg796BAD-kLq0p5w4ELPPFIIEpIIy7NoaEZKpX9pV-CThYIRwzdIZunB7B8TbstCMZV_XOeikXo4_mjTsa0vgXkNAPW9E1GFmTq1HnDQNrmimf9hkADEtbvhMI40O2qwBpCkcYQTHrUyG1OtQW7iW28QaVCI90kis9TIO-iQXdJEH04ZaNhfvDVQ.." name="lia-form-context" type="hidden"></input><input value="ForumTopicPage:board-id/1440/message-id/513216/thread-id/513216:searchform.form:" name="liaFormContentKey" type="hidden"></input><input value="vfnS3JtgT70g17TRcZUqWXdrX4Y=:H4sIAAAAAAAAAK2SMU7DMBSGH5U6VQiB4AawJgwUAZ0qUJFQgEoRM3pJ3TSQxMF+IenCUTgB4hId2LgDB2BlYiCJEygFibRksv0/+/+/Z/vhFZqxASeSobBHus0DEq4VkcsDqffRYQeqMuTC13wmZSoVisu8wS+SFNDmwtEwRHvENMKQSRLjtmZzwTzX0iyUTOtaqYg29bIjmyajKNy6mLReNp7eG7BkQCsn4d4Z+oxgzbjCW9Q9DBzdTAEDp5OEqVykm3l6blV7L915e+kLbqdGZmT5rpRp9uRxsDN8u39uACRhfA6nlfjo2qqGeAN3AATrP+/icrv2tCysGffgqJJrJJmY9ptZl+grmT79hjX5zwcbcPrW/Mz6EzbTF4H9w1/B7sFuJTM1dQQGkYfCpXGJt6oqx1+VxT0VUgf2qx3PPjwVQ7aVJVRSLSv1UKn/ssyhPgC3sZUktgQAAA==" name="t:formdata" type="hidden"></input></div>
+	
+	
+
+	
+
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="feedback"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="feedback"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+
+	
+	<input value="nMHVBsBRkYFAlZUtGK7YHW1NYGTYhavMBOKq_zqj8pQ." name="lia-action-token" type="hidden"></input>
+	
+	<input value="form" id="form_UID" name="form_UID" type="hidden"></input>
+	<input value="" id="form_instance_key" name="form_instance_key" type="hidden"></input>
+	
+				
+
+				<span class="lia-search-input-wrapper">
+					<input placeholder="Type your search here..." title="Search" class="lia-form-type-text lia-autocomplete-input search-input lia-search-input-message" value="" id="messageSearchField" name="messageSearchField" type="text"></input>
+					<input placeholder="Type your search here..." title="Search" class="lia-form-type-text lia-autocomplete-input search-input lia-search-input-tkb-article lia-js-hidden" value="" id="messageSearchField_0" name="messageSearchField_0" type="text"></input>
+					
+
+	
+		<input placeholder="Type your search here..." ng-non-bindable="" title="Enter a user name or rank" class="lia-form-type-text UserSearchField lia-search-input-user search-input lia-js-hidden lia-autocomplete-input" value="" id="userSearchField" name="userSearchField" type="text"></input>
+	
+
+	
+
+
+					<input title="Enter a search word" class="lia-form-type-text NoteSearchField lia-search-input-note search-input lia-js-hidden lia-autocomplete-input" value="" id="noteSearchField" name="noteSearchField" type="text"></input>
+				</span>
+
+				
+					
+						<select title="Search Granularity" class="lia-search-form-granularity search-granularity" id="searchGranularity" name="searchGranularity"><option title="Community" value="1001|category">Community</option><option title="Category" value="Classics|category">Category</option><option title="Board" selected="selected" value="1440|forum-board">Board</option><option title="Users" value="user|user">Users</option></select>
+					
+				
+
+				<span class="lia-button-wrapper lia-button-wrapper-secondary lia-button-wrapper-searchForm-action"><input value="searchForm" name="submitContextX" type="hidden"></input><input class="lia-button lia-button-secondary lia-button-searchForm-action" value="Search" id="submitContext" name="submitContext" type="submit"></input></span>
+				
+			
+</form>
+			<span class="lia-icon-toggle lia-search-toggle"></span>
+		
+			<div class="search-autocomplete-toggle-link lia-js-hidden">
+				<span>
+					<a class="lia-link-navigation auto-complete-toggle-on lia-link-ticket-post-action lia-component-search-action-enable-auto-complete" data-lia-action-token="Y427Hzx9rgitpu_vZQ9FX2xVFqE6ck3AAOHBINIVO6g." rel="nofollow" id="enableAutoComplete" href="https://community.lego.com/t5/forums/forumtopicpage.enableautocomplete:enableautocomplete?t:ac=board-id/1440/message-id/513216/thread-id/513216&amp;t:cp=action/contributions/searchactions">turn on suggestions</a>					
+					<span class="HelpIcon">
+	<a class="lia-link-navigation help-icon lia-tooltip-trigger" id="link_4" href="#"><img class="lia-img-icon-help lia-fa-icon lia-fa-help" alt="Auto-suggest helps you quickly narrow down your search results by suggesting possible matches as you type." id="display" src="https://lego.i.lithium.com/skins/images/F08C23B427CC705C4B4ECD4568E5BFAC/base/images/icon_help.png"/></a><div class="lia-content lia-tooltip-pos-bottom-left lia-panel-tooltip-wrapper" id="link_5-tooltip-element"><div class="lia-tooltip-arrow"></div><div class="lia-panel-tooltip"><div class="content">Auto-suggest helps you quickly narrow down your search results by suggesting possible matches as you type.</div></div></div>	
+</span>
+				</span>
+			</div>
+		
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_0"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+	
+	
+	
+</div>
+		
+	<div class="spell-check-showing-result">
+		Showing results for <span class="lia-link-navigation show-results-for-link lia-link-disabled" id="showingResult"></span>
+	</div>
+	<div class="spell-check-search-instead">
+		Search instead for <a class="lia-link-navigation search-instead-for-link" rel="nofollow" id="searchInstead" href="https://community.lego.com/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12044279/thread-id/513216?nospellcheck=true&amp;q=_change_me_"></a>
+	</div>
+	<div class="spell-check-do-you-mean lia-component-search-widget-spellcheck" class="spell-check-do-you-mean">
+		Do you mean <a class="lia-link-navigation do-you-mean-link" rel="nofollow" id="doYouMean" href="https://community.lego.com/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12044279/thread-id/513216?q=_change_me_"></a>
+	</div>
+
+	
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+
+	
+</div>
+		
+	
+	
+</div>
+		</div><div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-right lia-quilt-column-col_0">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+	
+		
+			<div class="custom-component-user-links">
+<a href="/t5/help/faqpage" class="help-link">Help</a>
+
+</div>
+		
+	
+	
+</div>
+		</div>
+	</div>
+</div>
+		
+			
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-main">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-main-content">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+	
+		
+			<div class="browse-forum">
+  <div class="browse-forum-button"><span>BROWSE FORUMS</span></div>
+  
+  <div class="browse-forum-dropdown"> 
+<div class="browse-forum-content"> 
+
+
+    <ul class="left">
+      <li class="category">
+        <div class="category-title">WELCOME</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/Welcome-to-the-Community/bd-p/WELCOME_TO_THE_COMMUNITY_FORUM">- Welcome to the Community</a></li>
+          <li><a href="https://community.lego.com/t5/The-Official-Interview-Room/bd-p/The_Interview_Room">- The Official Interview Room</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">BIONICLE Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/BIONICLE/bd-p/1012">- BIONICLE</a></li>
+          <li><a href="https://community.lego.com/t5/BIONICLE-Roleplay/bd-p/Bionicle_Roleplay">- BIONICLE Roleplay</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">CASTLE Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/CASTLE/bd-p/1525">- CASTLE</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">CITY Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/CITY/bd-p/1512">- CITY</a></li>
+          <li><a href="https://community.lego.com/t5/CITY-Roleplay/bd-p/1564">- CITY Roleplay</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">CREATOR Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/CREATOR/bd-p/1016">- CREATOR</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">DISNEY PRINCESS™ Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/DISNEY-PRINCESS/bd-p/Disney_Princess">- DISNEY PRINCESS™</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">ELVES Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/ELVES/bd-p/ELVES">- ELVES</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">JURASSIC WORLD™ Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/JURASSIC-WORLD/bd-p/JURASSIC_WORLD">- JURASSIC WORLD™</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">LEGENDS OF CHIMA Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/LEGENDS-OF-CHIMA/bd-p/Legends_Of_Chima">- LEGENDS OF CHIMA</a></li>
+          <li><a href="https://community.lego.com/t5/LEGENDS-OF-CHIMA-Roleplay/bd-p/Legends_Of_Chima_Roleplay">- LEGENDS OF CHIMA Roleplay</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">LEGO DIMENSIONS Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/LEGO-DIMENSIONS/bd-p/LEGO_DIMENSIONS">- LEGO DIMENSIONS</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">LEGO FRIENDS Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/LEGO-FRIENDS/bd-p/1613">- LEGO FRIENDS</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">LEGO SUPER HEROES Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/LEGO-SUPER-HEROES/bd-p/1604">- LEGO SUPER HEROES</a></li>
+          <li><a href="https://community.lego.com/t5/LEGO-SUPER-HEROES-Roleplay/bd-p/1605">- LEGO SUPER HEROES Roleplay</a></li>
+          <li><a href="https://community.lego.com/t5/LEGO-SUPER-HEROES-Stories/bd-p/LEGO_SUPERHEROES_Stories">- LEGO SUPER HEROES Stories</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">LEGO VIDEO GAMES Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/LEGO-VIDEO-GAMES/bd-p/1014">- LEGO VIDEO GAMES</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">MINDSTORMS Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/MINDSTORMS/bd-p/1042">- MINDSTORMS</a></li>
+        </ul>
+      </li>
+
+</ul><ul class="right">
+      <li class="category">
+        <div class="category-title">MINECRAFT™ Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/MINECRAFT/bd-p/Minecraft">- MINECRAFT™</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">MINIFIGURES Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/MINIFIGURES/bd-p/1516">- MINIFIGURES</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">MINIFIGURES ONLINE Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/MINIFIGURES-ONLINE/bd-p/Minifigures_Online">- MINIFIGURES ONLINE</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">MIXELS Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/MIXELS/bd-p/MIXELS">- MIXELS</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">NEXO KNIGHTS Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/NEXO-KNIGHTS/bd-p/NEXO_KNIGHTS">- NEXO KNIGHTS</a></li>
+          <li><a href="https://community.lego.com/t5/NEXO-KNIGHTS-Roleplay/bd-p/NEXO_KNIGHTS_Roleplay">- NEXO KNIGHTS Roleplay</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">NINJAGO Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/NINJAGO/bd-p/1544">- NINJAGO</a></li>
+          <li><a href="https://community.lego.com/t5/NINJAGO-Roleplay/bd-p/1560">- NINJAGO Roleplay</a></li>
+          <li><a href="https://community.lego.com/t5/NINJAGO-Stories/bd-p/1621">- NINJAGO Stories</a></li>
+          <li><a href="https://community.lego.com/t5/WU-CRU-DOJO/bd-p/WU_CRU_DOJO">- WU-CRU DOJO</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">STAR WARS™ Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/STAR-WARS/bd-p/1028">- STAR WARS™</a></li>
+          <li><a href="https://community.lego.com/t5/STAR-WARS-Roleplay-Clone-Wars/bd-p/1503">- STAR WARS™ Roleplay Clone Wars</a></li>
+          <li><a href="https://community.lego.com/t5/STAR-WARS-Roleplay-Original-Saga/bd-p/1557">- STAR WARS™ Roleplay Original Saga</a></li>
+          <li><a href="https://community.lego.com/t5/STAR-WARS-Stories/bd-p/Star_Wars_Stories">- STAR WARS™ Stories</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">TECHNIC Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/TECHNIC/bd-p/1542">- TECHNIC</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">LEGO GENERAL Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/LEGO-General/bd-p/1022">- LEGO General</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">COMMUNITY CHAT Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/COMMUNITY-CHAT/bd-p/1021">- COMMUNITY CHAT</a></li>
+          <li><a href="https://community.lego.com/t5/MESSAGE-BOARDS-Stories/bd-p/Message_Boards_Stories">- MESSAGE BOARDS Stories</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">MESSAGEBOARD HELP Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/MESSAGE-BOARD-Help-and/bd-p/1592">- MESSAGE BOARD Help and Suggestions</a></li>
+        </ul>
+      </li>
+
+      <li class="category">
+        <div class="category-title">CLASSICS Category</div>
+
+        <ul>
+          <li><a href="https://community.lego.com/t5/CLASSICS/bd-p/1019">- CLASSICS</a></li>
+          <li><a href="https://community.lego.com/t5/CLASSICS-Roleplay/bd-p/1565">- CLASSICS Roleplay</a></li>
+          <li><a href="https://community.lego.com/t5/GOLDEN-BRICK-AWARDS-2014/bd-p/Golden_Brick_Awards">- GOLDEN BRICK AWARDS 2014</a></li>
+          <li><a href="https://community.lego.com/t5/GOLDEN-BRICK-AWARDS-2015/bd-p/GOLDEN_BRICK_AWARDS_2015">- GOLDEN BRICK AWARDS 2015</a></li>
+          <li><a href="https://community.lego.com/t5/WRITE-LIKE-A-NINJA-CONTEST/bd-p/Write_Like_A_Ninja_Contest">- WRITE LIKE A NINJA CONTEST</a></li>
+          <li><a href="https://community.lego.com/t5/Old-BIONICLE-Roleplay/bd-p/1015">- Old BIONICLE Roleplay</a></li>
+          <li><a href="https://community.lego.com/t5/LEGO-UNIVERSE/bd-p/1440">- LEGO UNIVERSE</a></li>
+          <li><a href="https://community.lego.com/t5/LORD-OF-THE-RINGS-Roleplay/bd-p/1625">- LORD OF THE RINGS™  Roleplay</a></li>
+        </ul>
+      </li>
+
+  </ul>
+</div>
+</div>
+</div>
+
+		
+			<h2 class="PageTitle lia-component-common-widget-page-title"><a class="lia-link-navigation" id="link_6" href="/t5/LEGO-UNIVERSE/bd-p/1440">LEGO UNIVERSE</a></h2>
+		
+			<h3 class="custom-title">"Moving Targets"</h3>
+		
+			
+			
+			<div class="lia-menu-bar lia-menu-bar-top top-block lia-component-menu-bar" class="lia-menu-bar lia-menu-bar-top">
+	<div class="lia-decoration-border-menu-bar">
+		<div class="lia-decoration-border-menu-bar-top">
+			<div> </div>
+		</div>
+		<div class="lia-decoration-border-menu-bar-content">
+			<div>
+				
+				<div class="lia-menu-bar-buttons">
+					
+					<span class="lia-button-wrapper lia-button-wrapper-primary"><span class="primary-action message-reply"><a class="lia-button lia-button-primary" rel="nofollow" id="link_7" href="/t5/forums/replypage/board-id/1440/message-id/513216"><span>Reply</span></a></span></span>
+					
+					<div class="lia-menu-navigation-wrapper lia-menu-action" class="lia-menu-navigation-wrapper" id="actionMenuDropDown">	
+	<div class="lia-menu-navigation">
+		<div class="dropdown-default-item"><a title="Show option menu" class="lia-js-menu-opener default-menu-option lia-js-mouseover-menu lia-link-navigation" id="dropDownLink" href="#">Topic Options</a>
+			<div class="dropdown-positioning">
+				<div class="dropdown-positioning-static">
+					
+	<ul id="dropdownmenuitems" class="lia-menu-dropdown-items">
+		
+
+	
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation rss-thread-link lia-component-rss-action-thread" id="rssThread" href="/lego/rss/message?board.id=1440&amp;message.id=513216">Subscribe to RSS Feed</a></li>
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><span class="lia-link-navigation mark-thread-unread lia-link-disabled lia-component-forums-action-mark-thread-unread" id="markThreadUnread">Mark Topic as New</span></li>
+		
+			<li><span class="lia-link-navigation mark-thread-read lia-link-disabled lia-component-forums-action-mark-thread-read" id="markThreadRead">Mark Topic as Read</span></li>
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			
+		
+			<li><span class="lia-link-navigation addThreadUserFloat lia-link-disabled lia-component-subscriptions-action-add-thread-user-float" id="addThreadUserFloat">Float this Topic to the Top</span></li>
+		
+			
+		
+			<li><span class="lia-link-navigation addThreadUserBookmark lia-link-disabled lia-component-subscriptions-action-add-thread-user-bookmark" id="addThreadUserBookmark">Bookmark</span></li>
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation print-thread lia-component-forums-action-print-thread" id="printThread" href="/t5/forums/forumtopicprintpage/board-id/1440/message-id/513216/print-single-message/false/page/1">Printer Friendly Page</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	
+
+
+	</ul>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+				
+				</div>
+				
+					
+						
+					<div class="lia-paging-full-wrapper" id="threadnavigator">
+	<ul class="lia-paging-full">
+		
+	
+		
+			
+				<li class="lia-paging-page-previous lia-paging-page-listing lia-component-listing" class="lia-paging-page-previous lia-paging-page-listing">
+					<a class="lia-link-navigation" title="LEGO UNIVERSE" id="link_8" href="/t5/LEGO-UNIVERSE/bd-p/1440/page/17">
+						<span class="lia-paging-page-arrow">«</span> 
+						<span class="lia-paging-page-link">Message Listing</span>
+					</a>
+				</li>
+			
+		
+			
+				<li class="lia-paging-page-previous lia-component-previous" class="lia-paging-page-previous">
+					<a class="lia-link-navigation" title="~Red FireField~" id="link_9" href="https://community.lego.com/t5/LEGO-UNIVERSE/Red-FireField/td-p/3193314">
+						<span class="lia-paging-page-arrow">«</span> 
+						<span class="lia-paging-page-link">Previous Topic</span>
+					</a>
+				</li>
+			
+		
+			
+				<li class="lia-paging-page-next lia-component-next" class="lia-paging-page-next">
+					<a class="lia-link-navigation" title="I WANT EVERYONE TO READ THIS!!!" id="link_10" href="https://community.lego.com/t5/LEGO-UNIVERSE/I-WANT-EVERYONE-TO-READ-THIS/td-p/12006574">
+						<span class="lia-paging-page-link">Next Topic</span>
+						<span class="lia-paging-page-arrow">»</span>
+					</a>
+				</li>		
+			
+		
+	
+	
+
+	</ul>
+</div>
+				
+					
+				
+			</div>
+		</div>
+		<div class="lia-decoration-border-menu-bar-bottom">
+			<div> </div>
+		</div>
+	</div>
+</div>
+		
+			
+			
+		
+		
+		
+			
+			
+				<div class="lia-component-message-list">
+	<div class="linear-message-list message-list">
+
+	    
+            
+                
+                    
+        <div class="lia-linear-display-message-view" id="lineardisplaymessageviewwrapper">
+	
+		<span style="opacity:-1;position:relative;height:0;width:0;display:block;overflow:hidden" aria-label="Highlighted" tabindex="0">Highlighted</span>
+	
+	<div class="first-message">
+		
+	
+
+	
+
+
+		<div class="lia-message-view message-uid-12044279" id="messageview">
+	<div class="">
+		<div class="lia-js-resize-images lia-component-forums-widget-board-message-view"><div data-message-id="12044279">
+	<div class="lia-panel-intermission"><!-- container for custom hooks --></div>
+	<a name="M513216"> </a>
+	
+	<a name="U12044279"> </a>
+	
+	
+
+	
+
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_1"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+		<div class="lia-effect-highlight lia-panel-message-root lia-message-board lia-panel-message lia-js-data-messageUid-12044279">
+			<div class="lia-panel-message-content">
+				
+					
+		<div class="lia-decoration-border">
+			<div class="lia-decoration-border-top"><div> </div></div>
+				<div class="lia-decoration-border-content">
+					<div>
+						
+	<div>
+		<div class="lia-quilt lia-quilt-forum-message lia-quilt-layout-forum-message">
+	<div class="lia-quilt-row lia-quilt-row-forum-message-main">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-main-left">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+	
+		
+			
+				<div class="lia-message-author lia-component-author" class="lia-message-author">
+					
+							
+		<div class="lia-message-author-username">
+	
+
+	
+			<span class="UserName lia-user-name lia-user-rank-Rank-8">
+				
+		<img class="lia-user-rank-icon lia-user-rank-icon-left" title="Rank 8" alt="Rank 8" id="display_0" src="https://lego.i.lithium.com/html/rank_icons/SamuraiWarrior.png"/>
+		
+			<a class="lia-link-navigation lia-page-link lia-user-name-link" style="color:#000000" target="_self" id="link_11" href="/t5/user/viewprofilepage/user-id/1702943"><span class="">Haroldosaur</span></a>
+		
+		
+		
+		
+		
+		
+		
+		
+	
+			</span>
+		
+</div>
+	
+							
+		
+			<div class="lia-message-author-rank">Rank 8</div>
+		
+	
+							
+		
+	
+							
+		<div class="lia-message-author-avatar"><div class="UserAvatar lia-user-avatar lia-component-common-widget-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" tabindex="-1" target="_self" id="link_12" href="/t5/user/viewprofilepage/user-id/1702943"><img class="lia-user-avatar-message" title="Haroldosaur" alt="Haroldosaur" id="display_1" src="https://services.avatarinventory.lego.com/api/v1/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8/globalnavigation?fallback=https://mi-od-live-s.legocdn.com/r/account2/r/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8"/>
+                
+            </a>
+		
+</div></div>
+	
+							
+		
+			<div class="lia-message-author-post-count">Posts: 1,581</div>
+		
+	
+							
+		
+			<div class="lia-message-author-registered-date">
+				Registered:
+				<span class="DateTime">
+    
+
+	
+		
+		
+		<span class="local-date">‎12-21-2010</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+			</div>
+		
+	
+							
+		<div class="lia-message-author-ipaddress"></div>
+	
+						
+				</div>
+			
+		
+	
+	
+</div>
+		</div><div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-right lia-quilt-column-main-right">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+	
+		
+			
+				<div class="lia-message-heading lia-component-message-header" class="lia-message-heading">
+					<div class="lia-quilt-row lia-quilt-row-standard">
+	
+						<div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-left">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+		
+							
+		<div class="lia-message-subject">
+			
+			
+			
+			
+			
+			<h1>Moving Targets</h1>
+			<span class="lia-message-subject-status">
+				
+				
+			</span>
+		</div>
+	
+						
+	</div>
+</div>
+						<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-right">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+		
+							
+		<div class="lia-message-options">
+			<div class="lia-menu-navigation-wrapper lia-menu-action message-menu" class="lia-menu-navigation-wrapper" id="actionMenuDropDown_0">	
+	<div class="lia-menu-navigation">
+		<div class="dropdown-default-item"><a title="Show option menu" class="lia-js-menu-opener default-menu-option lia-js-mouseover-menu lia-link-navigation" id="dropDownLink_0" href="#">Options</a>
+			<div class="dropdown-positioning">
+				<div class="dropdown-positioning-static">
+					
+	<ul id="dropdownmenuitems_0" class="lia-menu-dropdown-items">
+		
+
+	
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation mark-message-unread lia-link-disabled lia-component-forums-action-mark-message-unread" id="markMessageUnread">Mark as New</span></li>
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation addMessageUserBookmark lia-link-disabled lia-component-subscriptions-action-add-message-user-bookmark" id="addMessageUserBookmark">Bookmark</span></li>
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation rss-message-link lia-component-rss-action-message" id="rssMessage" href="/lego/rss/message?board.id=1440&amp;message.id=513216">Subscribe to RSS Feed</a></li>
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation highlight-message lia-component-forums-action-highlight-message" id="highlightMessage" href="https://community.lego.com/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12044279/highlight/true#M513216">Highlight</a></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation print-message lia-component-forums-action-print-message" id="printMessage" href="/t5/forums/forumtopicprintpage/board-id/1440/message-id/513216/print-single-message/true/page/1">Print</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse" href="/t5/notifications/notifymoderatorpage/message-uid/12044279">REPORT POST</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	
+
+
+	</ul>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+	
+						
+	</div>
+</div>
+					
+</div>
+				</div>
+			
+		
+			
+				<p class="lia-message-dates lia-message-post-date lia-component-post-date-last-edited" class="lia-message-dates lia-message-post-date">
+					
+		 <span class="DateTime lia-message-posted-on lia-component-common-widget-date" class="DateTime lia-message-posted-on">
+    
+
+	
+		
+		
+		<span class="local-date">‎01-29-2015</span>
+	
+		
+		<span class="local-time">04:08 PM</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+	
+				</p>
+			
+		
+			
+				
+						
+		<div id="messagebodydisplay_0" class="lia-message-body">
+	
+		<div class="lia-message-body-content">
+			
+                
+                    <P>I have not written here for years. literally.</P><P>&nbsp;</P><P>The tale I am about to tell is set in a distopian future, where stromlings and the war are a thing of the past and tales to scare children. but a conspiracy is unearthed that could change everything, and shatter that which has been fragilely</P><P>built over the years.&nbsp;</P><P>&nbsp;</P><P>I'll only write here if people actually want to see this.</P><P>&nbsp;</P><P>comment your opinion here please.</P><P>&nbsp;</P><P>FYI, my track record includes the maelstrom minifigure, class 8 (or super 8 or something,) the maelstrom minifigure remastered, universal, dark angels and the mirror's edge.</P>
+                
+            
+			
+				<div style="width:98%; max-height:100px; overflow:hidden;" class="UserSignature lia-message-signature">
+	The Maelstrom Minifigure, Knight Of The Old Speech, Time Lord.<BR /><BR />"Somebody once told me that knowledge is a sharper weapon than a sword. Before I charge into a fight, I could use a little more of that." - Toa Lesovikk.
+</div>
+			
+			
+				<div>
+	
+</div>
+			
+			
+            
+            
+            
+            
+		</div>
+		
+		
+	
+</div>
+
+		
+		
+			<div class="lia-rating-metoo lia-component-body" class="lia-rating-metoo">
+				
+			</div>
+		
+		
+		
+	
+	
+					
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-notify lia-component-report-abuse" class="lia-message-notify">
+			<a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse_0" href="/t5/notifications/notifymoderatorpage/message-uid/12044279">REPORT POST</a>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-statistics lia-component-position-in-thread" class="lia-message-statistics">
+			<span class="MessagesPositionInThread">
+	Message <a href="/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12044279#M513216">1</a> of 6
+</span>
+			<span>(129 Views)</span>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-labels lia-component-labels" class="lia-message-labels">
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-tags lia-component-tags" class="lia-message-tags">
+			
+				
+				
+				
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-classifications lia-component-classifications" class="lia-message-classifications">
+			<div class="MessageClassifications">
+	
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-actions lia-component-actions" class="lia-message-actions">
+			<div class="lia-button-group">
+	
+				
+		
+		<span class="lia-button-wrapper lia-button-wrapper-secondary"><a class="lia-button lia-button-secondary reply-action-link lia-action-reply" rel="nofollow" id="link_13" href="/t5/forums/replypage/board-id/1440/message-id/513216">Reply</a></span>
+	
+				
+		
+	
+				
+		<div class="lia-message-kudos">
+			<div class="KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2 lia-component-kudos-widget-button" data-lia-kudos-id="12044279" id="kudosButtonV2" class="KudosButton KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2">
+	
+		<div class="lia-button-image-kudos lia-button-image-kudos-horizontal lia-button-image-kudos-enabled lia-button-image-kudos-not-kudoed lia-button-image-kudos-has-kudoes lia-button-image-kudos-has-kudos lia-button">
+		    
+    	
+        
+            <div class="lia-button-image-kudos-count">
+                <a class="lia-link-navigation kudos-count-link" title="Click here to see who gave likes to this post." id="link_14" href="/t5/kudos/messagepage/board-id/1440/message-id/513216/tab/all-users">
+                    <span class="MessageKudosCount lia-component-kudos-widget-message-kudos-count" id="messageKudosCount_fd71d069700154" class="MessageKudosCount">
+	
+			3
+		
+</span><span class="lia-button-image-kudos-label lia-component-kudos-widget-kudos-count-label" class="lia-button-image-kudos-label">
+	 Likes
+</span>
+                </a>
+            </div>
+        
+	
+    	
+        <div title="Click here to give likes to this post." class="lia-button-image-kudos-give">
+            <a class="lia-link-navigation kudos-link lia-link-ticket-post-action" title="Click here to give likes to this post." data-lia-action-token="1R799ExlmDLE8wVRxgty5160CZUFweAtk4QR9kPA-G8." rel="nofollow" id="kudoEntity" href="https://community.lego.com/t5/forums/forumtopicpage.kudosbuttonv2.kudoentity:kudoentity/kudosable-gid/12044279?t:ac=board-id/1440/message-id/513216/thread-id/513216&amp;t:cp=kudos/contributions/tapletcontributionspage">
+                <span class="kudos-give-link-text">
+                   	
+                </span>
+                
+            </a>
+        </div>
+	
+    
+		</div>
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+</div>
+		</div>
+	
+				
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-actions-secondary lia-component-secondary-actions" class="lia-message-actions-secondary">
+			<div class="lia-button-group">
+	
+				
+		
+	
+				
+		
+	
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+			
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-footer">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-footer-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-inner lia-quilt-column-footer-center lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-footer-right lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-quickreply">
+		<div class="lia-quilt-column lia-quilt-column-14 lia-quilt-column-left lia-quilt-column-quickreply-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-quickreply-right lia-mark-empty">
+			
+		</div>
+	</div>
+</div>
+	</div>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+					</div>
+				</div>
+			<div class="lia-decoration-border-bottom"><div> </div></div>
+		</div>
+	
+				
+				
+			</div>
+		</div>
+	
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_1"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+
+
+	
+
+	
+</div></div>
+	</div>
+</div>
+	</div>
+</div>
+	
+                
+
+                
+                
+                
+                
+                    
+                
+            
+                
+                    
+        <div class="lia-linear-display-message-view" id="lineardisplaymessageviewwrapper_0">
+	
+	<div class="">
+		
+	
+
+	
+
+
+		<div class="lia-message-view message-uid-12124089" id="messageview_0">
+	<div class="">
+		<div class="lia-js-resize-images lia-component-forums-widget-board-message-view"><div data-message-id="12124089">
+	<div class="lia-panel-intermission"><!-- container for custom hooks --></div>
+	<a name="M513949"> </a>
+	
+	<a name="U12124089"> </a>
+	
+	
+
+	
+
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_2"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+		<div class="lia-message-board lia-panel-message lia-js-data-messageUid-12124089">
+			<div class="lia-panel-message-content">
+				
+					
+		<div class="lia-decoration-border">
+			<div class="lia-decoration-border-top"><div> </div></div>
+				<div class="lia-decoration-border-content">
+					<div>
+						
+	<div>
+		<div class="lia-quilt lia-quilt-forum-message lia-quilt-layout-forum-message">
+	<div class="lia-quilt-row lia-quilt-row-forum-message-main">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-main-left">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+	
+		
+			
+				<div class="lia-message-author lia-component-author" class="lia-message-author">
+					
+							
+		<div class="lia-message-author-username">
+	
+
+	
+			<span class="UserName lia-user-name lia-user-rank-Rank-8">
+				
+		<img class="lia-user-rank-icon lia-user-rank-icon-left" title="Rank 8" alt="Rank 8" id="display_2" src="https://lego.i.lithium.com/html/rank_icons/SamuraiWarrior.png"/>
+		
+			<a class="lia-link-navigation lia-page-link lia-user-name-link" style="color:#000000" target="_self" id="link_15" href="/t5/user/viewprofilepage/user-id/1702943"><span class="">Haroldosaur</span></a>
+		
+		
+		
+		
+		
+		
+		
+		
+	
+			</span>
+		
+</div>
+	
+							
+		
+			<div class="lia-message-author-rank">Rank 8</div>
+		
+	
+							
+		
+	
+							
+		<div class="lia-message-author-avatar"><div class="UserAvatar lia-user-avatar lia-component-common-widget-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" tabindex="-1" target="_self" id="link_16" href="/t5/user/viewprofilepage/user-id/1702943"><img class="lia-user-avatar-message" title="Haroldosaur" alt="Haroldosaur" id="display_3" src="https://services.avatarinventory.lego.com/api/v1/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8/globalnavigation?fallback=https://mi-od-live-s.legocdn.com/r/account2/r/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8"/>
+                
+            </a>
+		
+</div></div>
+	
+							
+		
+			<div class="lia-message-author-post-count">Posts: 1,581</div>
+		
+	
+							
+		
+			<div class="lia-message-author-registered-date">
+				Registered:
+				<span class="DateTime">
+    
+
+	
+		
+		
+		<span class="local-date">‎12-21-2010</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+			</div>
+		
+	
+							
+		<div class="lia-message-author-ipaddress"></div>
+	
+						
+				</div>
+			
+		
+	
+	
+</div>
+		</div><div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-right lia-quilt-column-main-right">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+	
+		
+			
+				<div class="lia-message-heading lia-component-message-header" class="lia-message-heading">
+					<div class="lia-quilt-row lia-quilt-row-standard">
+	
+						<div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-left">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+		
+							
+		<div class="lia-message-subject">
+			
+			
+			
+			
+			
+			<h2>Re: Moving Targets</h2>
+			<span class="lia-message-subject-status">
+				
+				
+			</span>
+		</div>
+	
+						
+	</div>
+</div>
+						<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-right">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+		
+							
+		<div class="lia-message-options">
+			<div class="lia-menu-navigation-wrapper lia-menu-action message-menu" class="lia-menu-navigation-wrapper" id="actionMenuDropDown_1">	
+	<div class="lia-menu-navigation">
+		<div class="dropdown-default-item"><a title="Show option menu" class="lia-js-menu-opener default-menu-option lia-js-mouseover-menu lia-link-navigation" id="dropDownLink_1" href="#">Options</a>
+			<div class="dropdown-positioning">
+				<div class="dropdown-positioning-static">
+					
+	<ul id="dropdownmenuitems_1" class="lia-menu-dropdown-items">
+		
+
+	
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation mark-message-unread lia-link-disabled lia-component-forums-action-mark-message-unread" id="markMessageUnread_0">Mark as New</span></li>
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation addMessageUserBookmark lia-link-disabled lia-component-subscriptions-action-add-message-user-bookmark" id="addMessageUserBookmark_0">Bookmark</span></li>
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation rss-message-link lia-component-rss-action-message" id="rssMessage_0" href="/lego/rss/message?board.id=1440&amp;message.id=513949">Subscribe to RSS Feed</a></li>
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation highlight-message lia-component-forums-action-highlight-message" id="highlightMessage_0" href="https://community.lego.com/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12124089/highlight/true#M513949">Highlight</a></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation print-message lia-component-forums-action-print-message" id="printMessage_0" href="/t5/forums/forumtopicprintpage/board-id/1440/message-id/513949/print-single-message/true/page/1">Print</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse_1" href="/t5/notifications/notifymoderatorpage/message-uid/12124089">REPORT POST</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	
+
+
+	</ul>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+	
+						
+	</div>
+</div>
+					
+</div>
+				</div>
+			
+		
+			
+				<p class="lia-message-dates lia-message-post-date lia-component-post-date-last-edited" class="lia-message-dates lia-message-post-date">
+					
+		 <span class="DateTime lia-message-posted-on lia-component-common-widget-date" class="DateTime lia-message-posted-on">
+    
+
+	
+		
+		
+		<span class="local-date">‎02-15-2015</span>
+	
+		
+		<span class="local-time">06:20 AM</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+	
+				</p>
+			
+		
+			
+				
+						
+		<div class="lia-message-body lia-component-body" id="messagebodydisplay_0_0" class="lia-message-body">
+	
+		<div class="lia-message-body-content">
+			
+                
+                    <P>Prolouge Part 1:</P><P>&nbsp;</P><P>Jack Falcon sat on his seat in the Nimbus Station diner, staring at the colourful scenery and good company and whishing he was somewhere else. He had been assigned by his employers to watch the area and wait for a contact. But he couldn't get sucked into the interesting enviroment like everybody else. He found himself slipping into a stupor, waiting for this whole thing to be over. It had taken him almost fifteen minuites to get INTO the diner, owing to the large amounts of security outside. He muttered crossly to himself.</P><P>&nbsp;</P><P>"Even though the maelstrom wars ended twenty years ago, the Nexus Alliance is still paranoid about the maelstrom returning."&nbsp;</P><P>&nbsp;</P><P>The Nexus Alliance was a government that had been set up from the renmants of the Nexus Force once the war was over. As governments went, they weren't too shabby, but the one thing that nobody appreciated was the level of security around every area of higher class than a house made of mud. The only reason Jack had been able to get into the diner so quickly was because his employers, the Alliance themselves, had given him special clearance. Appareantly this contact was very important to them, like Jack really cared. All he wanted was to get this over with, collect his pay, and go home.&nbsp;</P><P>&nbsp;</P><P>At this point, a man stepped into the club door. There was very little to be noticed from his apearance- most of his form was covered by a long black coat that went down to his ankles. His eyes were covered by a pair of dark anti-flash glasses, and the only outstanding feature on the man was the short brown hair that contradicted the colour scheme of his clothing.&nbsp;</P><P>&nbsp;</P><P>The man stepped into the diner, and looked around for a few seconds before purposly making his way towards Jack. As he grew closer, Jack observed the stranger's long legs and dark jeans, now visible as the man had opened his trench coat on arrival. The stranger grabbed a chair and placed it down beside Jack. Leaning forward, Jack sighed and prepared to do buissness.</P><P>&nbsp;</P>
+                
+            
+			
+				<div style="width:98%; max-height:100px; overflow:hidden;" class="UserSignature lia-message-signature">
+	The Maelstrom Minifigure, Knight Of The Old Speech, Time Lord.<BR /><BR />"Somebody once told me that knowledge is a sharper weapon than a sword. Before I charge into a fight, I could use a little more of that." - Toa Lesovikk.
+</div>
+			
+			
+				<div>
+	
+</div>
+			
+			
+            
+            
+            
+            
+		</div>
+		
+		
+	
+</div>
+
+		
+		
+		
+		
+	
+	
+					
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-notify lia-component-report-abuse" class="lia-message-notify">
+			<a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse_2" href="/t5/notifications/notifymoderatorpage/message-uid/12124089">REPORT POST</a>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-statistics lia-component-position-in-thread" class="lia-message-statistics">
+			<span class="MessagesPositionInThread">
+	Message <a href="/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12124089#M513949">2</a> of 6
+</span>
+			<span>(103 Views)</span>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-labels lia-component-labels" class="lia-message-labels">
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-tags lia-component-tags" class="lia-message-tags">
+			
+				
+				
+				
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-classifications lia-component-classifications" class="lia-message-classifications">
+			<div class="MessageClassifications">
+	
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-actions lia-component-actions" class="lia-message-actions">
+			<div class="lia-button-group">
+	
+				
+		
+		<span class="lia-button-wrapper lia-button-wrapper-secondary"><a class="lia-button lia-button-secondary reply-action-link lia-action-reply" rel="nofollow" id="link_17" href="/t5/forums/replypage/board-id/1440/message-id/513949">Reply</a></span>
+	
+				
+		
+	
+				
+		<div class="lia-message-kudos">
+			<div class="KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2 lia-component-kudos-widget-button" data-lia-kudos-id="12124089" id="kudosButtonV2_0" class="KudosButton KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2">
+	
+		<div class="lia-button-image-kudos lia-button-image-kudos-horizontal lia-button-image-kudos-enabled lia-button-image-kudos-not-kudoed lia-button-image-kudos-has-kudoes lia-button-image-kudos-has-kudos lia-button">
+		    
+    	
+        
+            <div class="lia-button-image-kudos-count">
+                <a class="lia-link-navigation kudos-count-link" title="Click here to see who gave likes to this post." id="link_18" href="/t5/kudos/messagepage/board-id/1440/message-id/513949/tab/all-users">
+                    <span class="MessageKudosCount lia-component-kudos-widget-message-kudos-count" id="messageKudosCount_fd71d06b665c6f" class="MessageKudosCount">
+	
+			1
+		
+</span><span class="lia-button-image-kudos-label lia-component-kudos-widget-kudos-count-label" class="lia-button-image-kudos-label">
+	 Like
+</span>
+                </a>
+            </div>
+        
+	
+    	
+        <div title="Click here to give likes to this post." class="lia-button-image-kudos-give">
+            <a class="lia-link-navigation kudos-link lia-link-ticket-post-action" title="Click here to give likes to this post." data-lia-action-token="7z7QVkrm1vZbvG8JjRuncQMKS-bM8R-HIt9XVu4RTds." rel="nofollow" id="kudoEntity_0" href="https://community.lego.com/t5/forums/forumtopicpage.kudosbuttonv2.kudoentity:kudoentity/kudosable-gid/12124089?t:ac=board-id/1440/message-id/513216/thread-id/513216&amp;t:cp=kudos/contributions/tapletcontributionspage">
+                <span class="kudos-give-link-text">
+                   	
+                </span>
+                
+            </a>
+        </div>
+	
+    
+		</div>
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+</div>
+		</div>
+	
+				
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-actions-secondary lia-component-secondary-actions" class="lia-message-actions-secondary">
+			<div class="lia-button-group">
+	
+				
+		
+	
+				
+		
+	
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+			
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-footer">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-footer-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-inner lia-quilt-column-footer-center lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-footer-right lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-quickreply">
+		<div class="lia-quilt-column lia-quilt-column-14 lia-quilt-column-left lia-quilt-column-quickreply-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-quickreply-right lia-mark-empty">
+			
+		</div>
+	</div>
+</div>
+	</div>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+					</div>
+				</div>
+			<div class="lia-decoration-border-bottom"><div> </div></div>
+		</div>
+	
+				
+				
+			</div>
+		</div>
+	
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_2"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+
+
+	
+
+	
+</div></div>
+	</div>
+</div>
+	</div>
+</div>
+	
+                
+
+                
+                
+                
+                
+            
+                
+                    
+        <div class="lia-linear-display-message-view" id="lineardisplaymessageviewwrapper_1">
+	
+	<div class="">
+		
+	
+
+	
+
+
+		<div class="lia-message-view message-uid-12124143" id="messageview_1">
+	<div class="">
+		<div class="lia-js-resize-images lia-component-forums-widget-board-message-view"><div data-message-id="12124143">
+	<div class="lia-panel-intermission"><!-- container for custom hooks --></div>
+	<a name="M513952"> </a>
+	
+	<a name="U12124143"> </a>
+	
+	
+
+	
+
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_3"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+		<div class="lia-message-board lia-panel-message lia-js-data-messageUid-12124143">
+			<div class="lia-panel-message-content">
+				
+					
+		<div class="lia-decoration-border">
+			<div class="lia-decoration-border-top"><div> </div></div>
+				<div class="lia-decoration-border-content">
+					<div>
+						
+	<div>
+		<div class="lia-quilt lia-quilt-forum-message lia-quilt-layout-forum-message">
+	<div class="lia-quilt-row lia-quilt-row-forum-message-main">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-main-left">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+	
+		
+			
+				<div class="lia-message-author lia-component-author" class="lia-message-author">
+					
+							
+		<div class="lia-message-author-username">
+	
+
+	
+			<span class="UserName lia-user-name lia-user-rank-Rank-8">
+				
+		<img class="lia-user-rank-icon lia-user-rank-icon-left" title="Rank 8" alt="Rank 8" id="display_4" src="https://lego.i.lithium.com/html/rank_icons/SamuraiWarrior.png"/>
+		
+			<a class="lia-link-navigation lia-page-link lia-user-name-link" style="color:#000000" target="_self" id="link_19" href="/t5/user/viewprofilepage/user-id/1702943"><span class="">Haroldosaur</span></a>
+		
+		
+		
+		
+		
+		
+		
+		
+	
+			</span>
+		
+</div>
+	
+							
+		
+			<div class="lia-message-author-rank">Rank 8</div>
+		
+	
+							
+		
+	
+							
+		<div class="lia-message-author-avatar"><div class="UserAvatar lia-user-avatar lia-component-common-widget-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" tabindex="-1" target="_self" id="link_20" href="/t5/user/viewprofilepage/user-id/1702943"><img class="lia-user-avatar-message" title="Haroldosaur" alt="Haroldosaur" id="display_5" src="https://services.avatarinventory.lego.com/api/v1/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8/globalnavigation?fallback=https://mi-od-live-s.legocdn.com/r/account2/r/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8"/>
+                
+            </a>
+		
+</div></div>
+	
+							
+		
+			<div class="lia-message-author-post-count">Posts: 1,581</div>
+		
+	
+							
+		
+			<div class="lia-message-author-registered-date">
+				Registered:
+				<span class="DateTime">
+    
+
+	
+		
+		
+		<span class="local-date">‎12-21-2010</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+			</div>
+		
+	
+							
+		<div class="lia-message-author-ipaddress"></div>
+	
+						
+				</div>
+			
+		
+	
+	
+</div>
+		</div><div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-right lia-quilt-column-main-right">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+	
+		
+			
+				<div class="lia-message-heading lia-component-message-header" class="lia-message-heading">
+					<div class="lia-quilt-row lia-quilt-row-standard">
+	
+						<div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-left">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+		
+							
+		<div class="lia-message-subject">
+			
+			
+			
+			
+			
+			<h2>Re: Moving Targets</h2>
+			<span class="lia-message-subject-status">
+				
+				
+			</span>
+		</div>
+	
+						
+	</div>
+</div>
+						<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-right">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+		
+							
+		<div class="lia-message-options">
+			<div class="lia-menu-navigation-wrapper lia-menu-action message-menu" class="lia-menu-navigation-wrapper" id="actionMenuDropDown_2">	
+	<div class="lia-menu-navigation">
+		<div class="dropdown-default-item"><a title="Show option menu" class="lia-js-menu-opener default-menu-option lia-js-mouseover-menu lia-link-navigation" id="dropDownLink_2" href="#">Options</a>
+			<div class="dropdown-positioning">
+				<div class="dropdown-positioning-static">
+					
+	<ul id="dropdownmenuitems_2" class="lia-menu-dropdown-items">
+		
+
+	
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation mark-message-unread lia-link-disabled lia-component-forums-action-mark-message-unread" id="markMessageUnread_1">Mark as New</span></li>
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation addMessageUserBookmark lia-link-disabled lia-component-subscriptions-action-add-message-user-bookmark" id="addMessageUserBookmark_1">Bookmark</span></li>
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation rss-message-link lia-component-rss-action-message" id="rssMessage_1" href="/lego/rss/message?board.id=1440&amp;message.id=513952">Subscribe to RSS Feed</a></li>
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation highlight-message lia-component-forums-action-highlight-message" id="highlightMessage_1" href="https://community.lego.com/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12124143/highlight/true#M513952">Highlight</a></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation print-message lia-component-forums-action-print-message" id="printMessage_1" href="/t5/forums/forumtopicprintpage/board-id/1440/message-id/513952/print-single-message/true/page/1">Print</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse_3" href="/t5/notifications/notifymoderatorpage/message-uid/12124143">REPORT POST</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	
+
+
+	</ul>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+	
+						
+	</div>
+</div>
+					
+</div>
+				</div>
+			
+		
+			
+				<p class="lia-message-dates lia-message-post-date lia-component-post-date-last-edited" class="lia-message-dates lia-message-post-date">
+					
+		 <span class="DateTime lia-message-posted-on lia-component-common-widget-date" class="DateTime lia-message-posted-on">
+    
+
+	
+		
+		
+		<span class="local-date">‎02-15-2015</span>
+	
+		
+		<span class="local-time">06:53 AM</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+	
+				</p>
+			
+		
+			
+				
+						
+		<div class="lia-message-body lia-component-body" id="messagebodydisplay_0_1" class="lia-message-body">
+	
+		<div class="lia-message-body-content">
+			
+                
+                    <P>Prolouge Chapter 2:</P><P>&nbsp;</P><P>The stranger sat down, and leaned over to Jack.</P><P>&nbsp;</P><P>"Circuit." The stranger said.</P><P>&nbsp;</P><P>This had been the agreed codeword between Jack and the client. Jack nodded and, from his pocket, withdrew a bag containing what would normally be money, but today was specially filled with imaginite gems. Their emerald glow illuminated the two men's faces, and the client briefly smiled. In response, he reached into his coat with a gloved hand, and pulled out a bag containing something relatively small, yet heavy. The pair exchanged packages and shook hands. The client nodded.</P><P>&nbsp;</P><P>"Pleasure doing business with you." The client grinned.&nbsp;</P><P>&nbsp;</P><P>Jack nodded his appreciation for the client's politeness, and then pulled out a gun from a hidden compartmant in the diner. At the same time, various other undercover agents for the Alliance whipped out weapons. It was easy to tell who was a real civillian, because on seeing the firearms they screamed and fled from the diner. Jack motioned with the gun and the stranger raised his arms in the air.&nbsp;</P><P>&nbsp;</P><P>"I trust," said Jack, "You'll understand that the Nexus Alliance can't risk anyone knowing about their affairs, so I've been ordered to terminate you."</P><P>&nbsp;</P><P>"Oh I understand." Said the client. "That's why I wouldn't reccomend you do this."</P><P>&nbsp;</P><P>"Fool." Spat Jack, as one agent walked up behind the client with a sword raised. The client turned round just in time to catch the downswinging blade on his arm. But instead of smashing, bleeding or even showing signs of pain, an eerie metal clang was heard, and the client grinned a dark grin.&nbsp;</P><P>&nbsp;</P><P>In contrast, Jack's face fell. "What's the matter with you?" He murmered. But the client grabbed the agent's throat with the same arm that had taken the blow, and lifted him clean off the ground before turning to Jack.</P><P>&nbsp;</P><P>"You wouldn't want to know." Declared the client, before impossibly throwing the agent across the room. The agent slammed into a wall with bone crushing force, and Jack realised he was in deep, deep trouble.&nbsp;</P>
+                
+            
+			
+				<div style="width:98%; max-height:100px; overflow:hidden;" class="UserSignature lia-message-signature">
+	The Maelstrom Minifigure, Knight Of The Old Speech, Time Lord.<BR /><BR />"Somebody once told me that knowledge is a sharper weapon than a sword. Before I charge into a fight, I could use a little more of that." - Toa Lesovikk.
+</div>
+			
+			
+				<div>
+	
+</div>
+			
+			
+            
+            
+            
+            
+		</div>
+		
+		
+	
+</div>
+
+		
+		
+		
+		
+	
+	
+					
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-notify lia-component-report-abuse" class="lia-message-notify">
+			<a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse_4" href="/t5/notifications/notifymoderatorpage/message-uid/12124143">REPORT POST</a>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-statistics lia-component-position-in-thread" class="lia-message-statistics">
+			<span class="MessagesPositionInThread">
+	Message <a href="/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12124143#M513952">3</a> of 6
+</span>
+			<span>(94 Views)</span>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-labels lia-component-labels" class="lia-message-labels">
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-tags lia-component-tags" class="lia-message-tags">
+			
+				
+				
+				
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-classifications lia-component-classifications" class="lia-message-classifications">
+			<div class="MessageClassifications">
+	
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-actions lia-component-actions" class="lia-message-actions">
+			<div class="lia-button-group">
+	
+				
+		
+		<span class="lia-button-wrapper lia-button-wrapper-secondary"><a class="lia-button lia-button-secondary reply-action-link lia-action-reply" rel="nofollow" id="link_21" href="/t5/forums/replypage/board-id/1440/message-id/513952">Reply</a></span>
+	
+				
+		
+	
+				
+		<div class="lia-message-kudos">
+			<div class="KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2 lia-component-kudos-widget-button" data-lia-kudos-id="12124143" id="kudosButtonV2_1" class="KudosButton KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2">
+	
+		<div class="lia-button-image-kudos lia-button-image-kudos-horizontal lia-button-image-kudos-enabled lia-button-image-kudos-not-kudoed lia-button-image-kudos-has-kudoes lia-button-image-kudos-has-kudos lia-button">
+		    
+    	
+        
+            <div class="lia-button-image-kudos-count">
+                <a class="lia-link-navigation kudos-count-link" title="Click here to see who gave likes to this post." id="link_22" href="/t5/kudos/messagepage/board-id/1440/message-id/513952/tab/all-users">
+                    <span class="MessageKudosCount lia-component-kudos-widget-message-kudos-count" id="messageKudosCount_fd71d06d0ca980" class="MessageKudosCount">
+	
+			1
+		
+</span><span class="lia-button-image-kudos-label lia-component-kudos-widget-kudos-count-label" class="lia-button-image-kudos-label">
+	 Like
+</span>
+                </a>
+            </div>
+        
+	
+    	
+        <div title="Click here to give likes to this post." class="lia-button-image-kudos-give">
+            <a class="lia-link-navigation kudos-link lia-link-ticket-post-action" title="Click here to give likes to this post." data-lia-action-token="v-Al-IC1eg6Y8KRteh3ZSNaI07cBDU9vC9_iC1EWrL0." rel="nofollow" id="kudoEntity_1" href="https://community.lego.com/t5/forums/forumtopicpage.kudosbuttonv2.kudoentity:kudoentity/kudosable-gid/12124143?t:ac=board-id/1440/message-id/513216/thread-id/513216&amp;t:cp=kudos/contributions/tapletcontributionspage">
+                <span class="kudos-give-link-text">
+                   	
+                </span>
+                
+            </a>
+        </div>
+	
+    
+		</div>
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+</div>
+		</div>
+	
+				
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-actions-secondary lia-component-secondary-actions" class="lia-message-actions-secondary">
+			<div class="lia-button-group">
+	
+				
+		
+	
+				
+		
+	
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+			
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-footer">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-footer-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-inner lia-quilt-column-footer-center lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-footer-right lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-quickreply">
+		<div class="lia-quilt-column lia-quilt-column-14 lia-quilt-column-left lia-quilt-column-quickreply-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-quickreply-right lia-mark-empty">
+			
+		</div>
+	</div>
+</div>
+	</div>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+					</div>
+				</div>
+			<div class="lia-decoration-border-bottom"><div> </div></div>
+		</div>
+	
+				
+				
+			</div>
+		</div>
+	
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_3"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+
+
+	
+
+	
+</div></div>
+	</div>
+</div>
+	</div>
+</div>
+	
+                
+
+                
+                
+                
+                
+            
+                
+                    
+        <div class="lia-linear-display-message-view" id="lineardisplaymessageviewwrapper_2">
+	
+	<div class="">
+		
+	
+
+	
+
+
+		<div class="lia-message-view message-uid-12128918" id="messageview_2">
+	<div class="">
+		<div class="lia-js-resize-images lia-component-forums-widget-board-message-view"><div data-message-id="12128918">
+	<div class="lia-panel-intermission"><!-- container for custom hooks --></div>
+	<a name="M514002"> </a>
+	
+	<a name="U12128918"> </a>
+	
+	
+
+	
+
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_4"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+		<div class="lia-message-board lia-panel-message lia-js-data-messageUid-12128918">
+			<div class="lia-panel-message-content">
+				
+					
+		<div class="lia-decoration-border">
+			<div class="lia-decoration-border-top"><div> </div></div>
+				<div class="lia-decoration-border-content">
+					<div>
+						
+	<div>
+		<div class="lia-quilt lia-quilt-forum-message lia-quilt-layout-forum-message">
+	<div class="lia-quilt-row lia-quilt-row-forum-message-main">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-main-left">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+	
+		
+			
+				<div class="lia-message-author lia-component-author" class="lia-message-author">
+					
+							
+		<div class="lia-message-author-username">
+	
+
+	
+			<span class="UserName lia-user-name lia-user-rank-Rank-8">
+				
+		<img class="lia-user-rank-icon lia-user-rank-icon-left" title="Rank 8" alt="Rank 8" id="display_6" src="https://lego.i.lithium.com/html/rank_icons/SamuraiWarrior.png"/>
+		
+			<a class="lia-link-navigation lia-page-link lia-user-name-link" style="color:#000000" target="_self" id="link_23" href="/t5/user/viewprofilepage/user-id/1702943"><span class="">Haroldosaur</span></a>
+		
+		
+		
+		
+		
+		
+		
+		
+	
+			</span>
+		
+</div>
+	
+							
+		
+			<div class="lia-message-author-rank">Rank 8</div>
+		
+	
+							
+		
+	
+							
+		<div class="lia-message-author-avatar"><div class="UserAvatar lia-user-avatar lia-component-common-widget-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" tabindex="-1" target="_self" id="link_24" href="/t5/user/viewprofilepage/user-id/1702943"><img class="lia-user-avatar-message" title="Haroldosaur" alt="Haroldosaur" id="display_7" src="https://services.avatarinventory.lego.com/api/v1/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8/globalnavigation?fallback=https://mi-od-live-s.legocdn.com/r/account2/r/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8"/>
+                
+            </a>
+		
+</div></div>
+	
+							
+		
+			<div class="lia-message-author-post-count">Posts: 1,581</div>
+		
+	
+							
+		
+			<div class="lia-message-author-registered-date">
+				Registered:
+				<span class="DateTime">
+    
+
+	
+		
+		
+		<span class="local-date">‎12-21-2010</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+			</div>
+		
+	
+							
+		<div class="lia-message-author-ipaddress"></div>
+	
+						
+				</div>
+			
+		
+	
+	
+</div>
+		</div><div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-right lia-quilt-column-main-right">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+	
+		
+			
+				<div class="lia-message-heading lia-component-message-header" class="lia-message-heading">
+					<div class="lia-quilt-row lia-quilt-row-standard">
+	
+						<div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-left">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+		
+							
+		<div class="lia-message-subject">
+			
+			
+			
+			
+			
+			<h2>Re: Moving Targets</h2>
+			<span class="lia-message-subject-status">
+				
+				
+			</span>
+		</div>
+	
+						
+	</div>
+</div>
+						<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-right">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+		
+							
+		<div class="lia-message-options">
+			<div class="lia-menu-navigation-wrapper lia-menu-action message-menu" class="lia-menu-navigation-wrapper" id="actionMenuDropDown_3">	
+	<div class="lia-menu-navigation">
+		<div class="dropdown-default-item"><a title="Show option menu" class="lia-js-menu-opener default-menu-option lia-js-mouseover-menu lia-link-navigation" id="dropDownLink_3" href="#">Options</a>
+			<div class="dropdown-positioning">
+				<div class="dropdown-positioning-static">
+					
+	<ul id="dropdownmenuitems_3" class="lia-menu-dropdown-items">
+		
+
+	
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation mark-message-unread lia-link-disabled lia-component-forums-action-mark-message-unread" id="markMessageUnread_2">Mark as New</span></li>
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation addMessageUserBookmark lia-link-disabled lia-component-subscriptions-action-add-message-user-bookmark" id="addMessageUserBookmark_2">Bookmark</span></li>
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation rss-message-link lia-component-rss-action-message" id="rssMessage_2" href="/lego/rss/message?board.id=1440&amp;message.id=514002">Subscribe to RSS Feed</a></li>
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation highlight-message lia-component-forums-action-highlight-message" id="highlightMessage_2" href="https://community.lego.com/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12128918/highlight/true#M514002">Highlight</a></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation print-message lia-component-forums-action-print-message" id="printMessage_2" href="/t5/forums/forumtopicprintpage/board-id/1440/message-id/514002/print-single-message/true/page/1">Print</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse_5" href="/t5/notifications/notifymoderatorpage/message-uid/12128918">REPORT POST</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	
+
+
+	</ul>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+	
+						
+	</div>
+</div>
+					
+</div>
+				</div>
+			
+		
+			
+				<p class="lia-message-dates lia-message-post-date lia-component-post-date-last-edited" class="lia-message-dates lia-message-post-date">
+					
+		 <span class="DateTime lia-message-posted-on lia-component-common-widget-date" class="DateTime lia-message-posted-on">
+    
+
+	
+		
+		
+		<span class="local-date">‎02-16-2015</span>
+	
+		
+		<span class="local-time">04:19 AM</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+	
+				</p>
+			
+		
+			
+				
+						
+		<div class="lia-message-body lia-component-body" id="messagebodydisplay_0_2" class="lia-message-body">
+	
+		<div class="lia-message-body-content">
+			
+                
+                    <P>Prolouge Chapter 3:</P><P>&nbsp;</P><P>Jack shot four bullets at the client, hoping for at least one to make their mark. But he was disappointed. One ricoched off the client's strange arm, two missed, and one was about to hit the client's eye when it seemed to veer a 70 degree angle in the other direction, and Jack could have sworn he saw a strange purple flash.&nbsp;</P><P>&nbsp;</P><P>The remaining agents (five of them, not including Jack) exchanged nervous looks. The client snapped his fingers, and a purple mist started to fog up the room. Immediatly things started to go from bad for worse for the agents, as the fog thickened until Jack could barely see a few inches in front of his face. Suddenly a groan of pain came from his right. than another from his left. This continued for a few minuites until there were no more screams.&nbsp;</P><P>&nbsp;</P><P>"Agents! Respond!" Jack ordered. "Give your unit identification and describe your location!" This might not have been the best idea, but in all fairness Jack was panicking. This meeting had not gone to plan.&nbsp;</P><P>&nbsp;</P><P>There was no reply.</P><P>&nbsp;</P><P>The smoke suddenly and quickly receded, to show Jack he was indeed the only one left. The mysterious client was standing in the middle of the room, with the last strands of purple mist clinging to him. Around him lay the smashed pieces of the agents.&nbsp;</P><P>&nbsp;</P><P>"Wh... what did you do?!" Jack exclaimed, caution and fear giving way to hysteria.</P><P>&nbsp;</P><P>The client shrugged nochalantly. "What you were planning to do to me. I was simply returning the favour."</P><P>&nbsp;</P><P>Suddenly the client sped towards Jack with an unrealistic speed. Anticipating the blow, Jack raised his arms in front of him. The blow knocked him backwards, but the client was already swinging at him with the other hand. This time Jack managed to dodge, and saw that the blow had, behind him, smashed into the bar and had sent wood chips firing.&nbsp;</P><P>&nbsp;</P><P>"WHAT ARE YOU?!" Jack shrieked.</P><P>&nbsp;</P><P>"The destoryer of corruption. And you, my friend, are corrupt."</P><P>&nbsp;</P><P>Jack prepared to fight for his life.&nbsp;</P>
+                
+            
+			
+				<div style="width:98%; max-height:100px; overflow:hidden;" class="UserSignature lia-message-signature">
+	The Maelstrom Minifigure, Knight Of The Old Speech, Time Lord.<BR /><BR />"Somebody once told me that knowledge is a sharper weapon than a sword. Before I charge into a fight, I could use a little more of that." - Toa Lesovikk.
+</div>
+			
+			
+				<div>
+	
+</div>
+			
+			
+            
+            
+            
+            
+		</div>
+		
+		
+	
+</div>
+
+		
+		
+		
+		
+	
+	
+					
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-notify lia-component-report-abuse" class="lia-message-notify">
+			<a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse_6" href="/t5/notifications/notifymoderatorpage/message-uid/12128918">REPORT POST</a>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-statistics lia-component-position-in-thread" class="lia-message-statistics">
+			<span class="MessagesPositionInThread">
+	Message <a href="/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12128918#M514002">4</a> of 6
+</span>
+			<span>(85 Views)</span>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-labels lia-component-labels" class="lia-message-labels">
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-tags lia-component-tags" class="lia-message-tags">
+			
+				
+				
+				
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-classifications lia-component-classifications" class="lia-message-classifications">
+			<div class="MessageClassifications">
+	
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-actions lia-component-actions" class="lia-message-actions">
+			<div class="lia-button-group">
+	
+				
+		
+		<span class="lia-button-wrapper lia-button-wrapper-secondary"><a class="lia-button lia-button-secondary reply-action-link lia-action-reply" rel="nofollow" id="link_25" href="/t5/forums/replypage/board-id/1440/message-id/514002">Reply</a></span>
+	
+				
+		
+	
+				
+		<div class="lia-message-kudos">
+			<div class="KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2 lia-component-kudos-widget-button" data-lia-kudos-id="12128918" id="kudosButtonV2_2" class="KudosButton KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2">
+	
+		<div class="lia-button-image-kudos lia-button-image-kudos-horizontal lia-button-image-kudos-enabled lia-button-image-kudos-not-kudoed lia-button-image-kudos-has-kudoes lia-button-image-kudos-has-kudos lia-button">
+		    
+    	
+        
+            <div class="lia-button-image-kudos-count">
+                <a class="lia-link-navigation kudos-count-link" title="Click here to see who gave likes to this post." id="link_26" href="/t5/kudos/messagepage/board-id/1440/message-id/514002/tab/all-users">
+                    <span class="MessageKudosCount lia-component-kudos-widget-message-kudos-count" id="messageKudosCount_fd71d06f1f21b7" class="MessageKudosCount">
+	
+			1
+		
+</span><span class="lia-button-image-kudos-label lia-component-kudos-widget-kudos-count-label" class="lia-button-image-kudos-label">
+	 Like
+</span>
+                </a>
+            </div>
+        
+	
+    	
+        <div title="Click here to give likes to this post." class="lia-button-image-kudos-give">
+            <a class="lia-link-navigation kudos-link lia-link-ticket-post-action" title="Click here to give likes to this post." data-lia-action-token="zoPhWqr9vO-leVsPfQB493b_nAMwoIT9HpNhxCpb5Ck." rel="nofollow" id="kudoEntity_2" href="https://community.lego.com/t5/forums/forumtopicpage.kudosbuttonv2.kudoentity:kudoentity/kudosable-gid/12128918?t:ac=board-id/1440/message-id/513216/thread-id/513216&amp;t:cp=kudos/contributions/tapletcontributionspage">
+                <span class="kudos-give-link-text">
+                   	
+                </span>
+                
+            </a>
+        </div>
+	
+    
+		</div>
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+</div>
+		</div>
+	
+				
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-actions-secondary lia-component-secondary-actions" class="lia-message-actions-secondary">
+			<div class="lia-button-group">
+	
+				
+		
+	
+				
+		
+	
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+			
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-footer">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-footer-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-inner lia-quilt-column-footer-center lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-footer-right lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-quickreply">
+		<div class="lia-quilt-column lia-quilt-column-14 lia-quilt-column-left lia-quilt-column-quickreply-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-quickreply-right lia-mark-empty">
+			
+		</div>
+	</div>
+</div>
+	</div>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+					</div>
+				</div>
+			<div class="lia-decoration-border-bottom"><div> </div></div>
+		</div>
+	
+				
+				
+			</div>
+		</div>
+	
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_4"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+
+
+	
+
+	
+</div></div>
+	</div>
+</div>
+	</div>
+</div>
+	
+                
+
+                
+                
+                
+                
+            
+                
+                    
+        <div class="lia-linear-display-message-view" id="lineardisplaymessageviewwrapper_3">
+	
+	<div class="">
+		
+	
+
+	
+
+
+		<div class="lia-message-view message-uid-12130157" id="messageview_3">
+	<div class="">
+		<div class="lia-js-resize-images lia-component-forums-widget-board-message-view"><div data-message-id="12130157">
+	<div class="lia-panel-intermission"><!-- container for custom hooks --></div>
+	<a name="M514013"> </a>
+	
+	<a name="U12130157"> </a>
+	
+	
+
+	
+
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_5"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+		<div class="lia-message-board lia-panel-message lia-js-data-messageUid-12130157">
+			<div class="lia-panel-message-content">
+				
+					
+		<div class="lia-decoration-border">
+			<div class="lia-decoration-border-top"><div> </div></div>
+				<div class="lia-decoration-border-content">
+					<div>
+						
+	<div>
+		<div class="lia-quilt lia-quilt-forum-message lia-quilt-layout-forum-message">
+	<div class="lia-quilt-row lia-quilt-row-forum-message-main">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-main-left">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+	
+		
+			
+				<div class="lia-message-author lia-component-author" class="lia-message-author">
+					
+							
+		<div class="lia-message-author-username">
+	
+
+	
+			<span class="UserName lia-user-name lia-user-rank-Rank-8">
+				
+		<img class="lia-user-rank-icon lia-user-rank-icon-left" title="Rank 8" alt="Rank 8" id="display_8" src="https://lego.i.lithium.com/html/rank_icons/SamuraiWarrior.png"/>
+		
+			<a class="lia-link-navigation lia-page-link lia-user-name-link" style="color:#000000" target="_self" id="link_27" href="/t5/user/viewprofilepage/user-id/1702943"><span class="">Haroldosaur</span></a>
+		
+		
+		
+		
+		
+		
+		
+		
+	
+			</span>
+		
+</div>
+	
+							
+		
+			<div class="lia-message-author-rank">Rank 8</div>
+		
+	
+							
+		
+	
+							
+		<div class="lia-message-author-avatar"><div class="UserAvatar lia-user-avatar lia-component-common-widget-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" tabindex="-1" target="_self" id="link_28" href="/t5/user/viewprofilepage/user-id/1702943"><img class="lia-user-avatar-message" title="Haroldosaur" alt="Haroldosaur" id="display_9" src="https://services.avatarinventory.lego.com/api/v1/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8/globalnavigation?fallback=https://mi-od-live-s.legocdn.com/r/account2/r/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8"/>
+                
+            </a>
+		
+</div></div>
+	
+							
+		
+			<div class="lia-message-author-post-count">Posts: 1,581</div>
+		
+	
+							
+		
+			<div class="lia-message-author-registered-date">
+				Registered:
+				<span class="DateTime">
+    
+
+	
+		
+		
+		<span class="local-date">‎12-21-2010</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+			</div>
+		
+	
+							
+		<div class="lia-message-author-ipaddress"></div>
+	
+						
+				</div>
+			
+		
+	
+	
+</div>
+		</div><div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-right lia-quilt-column-main-right">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+	
+		
+			
+				<div class="lia-message-heading lia-component-message-header" class="lia-message-heading">
+					<div class="lia-quilt-row lia-quilt-row-standard">
+	
+						<div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-left">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+		
+							
+		<div class="lia-message-subject">
+			
+			
+			
+			
+			
+			<h2>Re: Moving Targets</h2>
+			<span class="lia-message-subject-status">
+				
+				
+			</span>
+		</div>
+	
+						
+	</div>
+</div>
+						<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-right">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+		
+							
+		<div class="lia-message-options">
+			<div class="lia-menu-navigation-wrapper lia-menu-action message-menu" class="lia-menu-navigation-wrapper" id="actionMenuDropDown_4">	
+	<div class="lia-menu-navigation">
+		<div class="dropdown-default-item"><a title="Show option menu" class="lia-js-menu-opener default-menu-option lia-js-mouseover-menu lia-link-navigation" id="dropDownLink_4" href="#">Options</a>
+			<div class="dropdown-positioning">
+				<div class="dropdown-positioning-static">
+					
+	<ul id="dropdownmenuitems_4" class="lia-menu-dropdown-items">
+		
+
+	
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation mark-message-unread lia-link-disabled lia-component-forums-action-mark-message-unread" id="markMessageUnread_3">Mark as New</span></li>
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation addMessageUserBookmark lia-link-disabled lia-component-subscriptions-action-add-message-user-bookmark" id="addMessageUserBookmark_3">Bookmark</span></li>
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation rss-message-link lia-component-rss-action-message" id="rssMessage_3" href="/lego/rss/message?board.id=1440&amp;message.id=514013">Subscribe to RSS Feed</a></li>
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation highlight-message lia-component-forums-action-highlight-message" id="highlightMessage_3" href="https://community.lego.com/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12130157/highlight/true#M514013">Highlight</a></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation print-message lia-component-forums-action-print-message" id="printMessage_3" href="/t5/forums/forumtopicprintpage/board-id/1440/message-id/514013/print-single-message/true/page/1">Print</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse_7" href="/t5/notifications/notifymoderatorpage/message-uid/12130157">REPORT POST</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	
+
+
+	</ul>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+	
+						
+	</div>
+</div>
+					
+</div>
+				</div>
+			
+		
+			
+				<p class="lia-message-dates lia-message-post-date lia-component-post-date-last-edited" class="lia-message-dates lia-message-post-date">
+					
+		 <span class="DateTime lia-message-posted-on lia-component-common-widget-date" class="DateTime lia-message-posted-on">
+    
+
+	
+		
+		
+		<span class="local-date">‎02-16-2015</span>
+	
+		
+		<span class="local-time">11:59 AM</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+	
+				</p>
+			
+		
+			
+				
+						
+		<div class="lia-message-body lia-component-body" id="messagebodydisplay_0_3" class="lia-message-body">
+	
+		<div class="lia-message-body-content">
+			
+                
+                    <P>Prolouge Chapter 4:</P><P>&nbsp;</P><P>The client raised his arm again, and &nbsp;fired LIGHTNING from his hand. It arced to the side as the client aimed it directly at Jack. Jack, in response, dived under the beam and fired again at the client's face. All the bullets, however, were destroyed or redirected by the electricity. Jack tried to dive behind the counter, but the lightning smashed into said counter and sent Jack flying. Jack landed on the floor, dazed, as the client walked over and pressed a foot onto his chest, meaning he couldn't rise. Jack desperatly tried to pull himself up, and in doing so grabbed the client's arm and pulled the glove clean off by accident.&nbsp;</P><P>&nbsp;</P><P>When Jack raised his eyes, he couldn't believe what he saw.</P><P>&nbsp;</P><P>The whole of the client's arm was a machine. Beneath a metal coating, Jack could see wires, circuits, and moving parts. Jack suddenly realised where the blasts of electricity had come from. He also noticed that there was a broken bottle on a nearby table. But there was little time to dwell on that. The client reached down with the bionic arm, grabbed Jack by the throat and lifted him into the air.&nbsp;</P><P>&nbsp;</P><P>"You work for the Nexus Alliance, don't you?" The client hissed. Jack glared at him.</P><P>&nbsp;</P><P>"I work for whoever pays." He choked, whilst reaching for the bottle. The client noticed a second before Jack acted, but it was too late. Jack yelled, and smashed the bottle onto the side of the client's face. Glass flew, but no blood. When Jack looked again, he realised all he had done was dislodge the client's anti-flash glasses, and revealed the client's eyes. Jack gasped.</P><P>&nbsp;</P><P>One of the client's eyes, the right, was a deep, malevolent purple. It screamed evil, and darkness. The other eye was an electric blue, and surrounded by metal and circuit instead of flesh.</P><P>&nbsp;</P><P>"You shouldn't have done that." The client declared, and raised his bionic arm. He leaned close to Jack as the arm powered up. "This will show the the Alliance that... I'm coming for them."</P><P>&nbsp;</P><P>The arm fired again, and Jack felt no more.</P>
+                
+            
+			
+				<div style="width:98%; max-height:100px; overflow:hidden;" class="UserSignature lia-message-signature">
+	The Maelstrom Minifigure, Knight Of The Old Speech, Time Lord.<BR /><BR />"Somebody once told me that knowledge is a sharper weapon than a sword. Before I charge into a fight, I could use a little more of that." - Toa Lesovikk.
+</div>
+			
+			
+				<div>
+	
+</div>
+			
+			
+            
+            
+            
+            
+		</div>
+		
+		
+	
+</div>
+
+		
+		
+		
+		
+	
+	
+					
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-notify lia-component-report-abuse" class="lia-message-notify">
+			<a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse_8" href="/t5/notifications/notifymoderatorpage/message-uid/12130157">REPORT POST</a>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-statistics lia-component-position-in-thread" class="lia-message-statistics">
+			<span class="MessagesPositionInThread">
+	Message <a href="/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12130157#M514013">5</a> of 6
+</span>
+			<span>(79 Views)</span>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-labels lia-component-labels" class="lia-message-labels">
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-tags lia-component-tags" class="lia-message-tags">
+			
+				
+				
+				
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-classifications lia-component-classifications" class="lia-message-classifications">
+			<div class="MessageClassifications">
+	
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-actions lia-component-actions" class="lia-message-actions">
+			<div class="lia-button-group">
+	
+				
+		
+		<span class="lia-button-wrapper lia-button-wrapper-secondary"><a class="lia-button lia-button-secondary reply-action-link lia-action-reply" rel="nofollow" id="link_29" href="/t5/forums/replypage/board-id/1440/message-id/514013">Reply</a></span>
+	
+				
+		
+	
+				
+		<div class="lia-message-kudos">
+			<div class="KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2 lia-component-kudos-widget-button" data-lia-kudos-id="12130157" id="kudosButtonV2_3" class="KudosButton KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2">
+	
+		<div class="lia-button-image-kudos lia-button-image-kudos-horizontal lia-button-image-kudos-enabled lia-button-image-kudos-not-kudoed lia-button-image-kudos-has-kudoes lia-button-image-kudos-has-kudos lia-button">
+		    
+    	
+        
+            <div class="lia-button-image-kudos-count">
+                <a class="lia-link-navigation kudos-count-link" title="Click here to see who gave likes to this post." id="link_30" href="/t5/kudos/messagepage/board-id/1440/message-id/514013/tab/all-users">
+                    <span class="MessageKudosCount lia-component-kudos-widget-message-kudos-count" id="messageKudosCount_fd71d0715ac337" class="MessageKudosCount">
+	
+			1
+		
+</span><span class="lia-button-image-kudos-label lia-component-kudos-widget-kudos-count-label" class="lia-button-image-kudos-label">
+	 Like
+</span>
+                </a>
+            </div>
+        
+	
+    	
+        <div title="Click here to give likes to this post." class="lia-button-image-kudos-give">
+            <a class="lia-link-navigation kudos-link lia-link-ticket-post-action" title="Click here to give likes to this post." data-lia-action-token="VFT4xRjeA9Ku70yLOiUfhUWHeyo82NFq1_Jr9e1Fql4." rel="nofollow" id="kudoEntity_3" href="https://community.lego.com/t5/forums/forumtopicpage.kudosbuttonv2.kudoentity:kudoentity/kudosable-gid/12130157?t:ac=board-id/1440/message-id/513216/thread-id/513216&amp;t:cp=kudos/contributions/tapletcontributionspage">
+                <span class="kudos-give-link-text">
+                   	
+                </span>
+                
+            </a>
+        </div>
+	
+    
+		</div>
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+</div>
+		</div>
+	
+				
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-actions-secondary lia-component-secondary-actions" class="lia-message-actions-secondary">
+			<div class="lia-button-group">
+	
+				
+		
+	
+				
+		
+	
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+			
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-footer">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-footer-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-inner lia-quilt-column-footer-center lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-footer-right lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-quickreply">
+		<div class="lia-quilt-column lia-quilt-column-14 lia-quilt-column-left lia-quilt-column-quickreply-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-quickreply-right lia-mark-empty">
+			
+		</div>
+	</div>
+</div>
+	</div>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+					</div>
+				</div>
+			<div class="lia-decoration-border-bottom"><div> </div></div>
+		</div>
+	
+				
+				
+			</div>
+		</div>
+	
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_5"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+
+
+	
+
+	
+</div></div>
+	</div>
+</div>
+	</div>
+</div>
+	
+                
+
+                
+                
+                
+                
+            
+                
+                    
+        <div class="lia-linear-display-message-view" id="lineardisplaymessageviewwrapper_4">
+	
+	<div class="">
+		
+	
+
+	
+
+
+		<div class="lia-message-view message-uid-12130840" id="messageview_4">
+	<div class="">
+		<div class="lia-js-resize-images lia-component-forums-widget-board-message-view"><div data-message-id="12130840">
+	<div class="lia-panel-intermission"><!-- container for custom hooks --></div>
+	<a name="M514022"> </a>
+	
+	<a name="U12130840"> </a>
+	
+	
+
+	
+
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_6"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+		<div class="lia-message-board lia-panel-message lia-js-data-messageUid-12130840">
+			<div class="lia-panel-message-content">
+				
+					
+		<div class="lia-decoration-border">
+			<div class="lia-decoration-border-top"><div> </div></div>
+				<div class="lia-decoration-border-content">
+					<div>
+						
+	<div>
+		<div class="lia-quilt lia-quilt-forum-message lia-quilt-layout-forum-message">
+	<div class="lia-quilt-row lia-quilt-row-forum-message-main">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-main-left">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+	
+		
+			
+				<div class="lia-message-author lia-component-author" class="lia-message-author">
+					
+							
+		<div class="lia-message-author-username">
+	
+
+	
+			<span class="UserName lia-user-name lia-user-rank-Rank-8">
+				
+		<img class="lia-user-rank-icon lia-user-rank-icon-left" title="Rank 8" alt="Rank 8" id="display_10" src="https://lego.i.lithium.com/html/rank_icons/SamuraiWarrior.png"/>
+		
+			<a class="lia-link-navigation lia-page-link lia-user-name-link" style="color:#000000" target="_self" id="link_31" href="/t5/user/viewprofilepage/user-id/1702943"><span class="">Haroldosaur</span></a>
+		
+		
+		
+		
+		
+		
+		
+		
+	
+			</span>
+		
+</div>
+	
+							
+		
+			<div class="lia-message-author-rank">Rank 8</div>
+		
+	
+							
+		
+	
+							
+		<div class="lia-message-author-avatar"><div class="UserAvatar lia-user-avatar lia-component-common-widget-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" tabindex="-1" target="_self" id="link_32" href="/t5/user/viewprofilepage/user-id/1702943"><img class="lia-user-avatar-message" title="Haroldosaur" alt="Haroldosaur" id="display_11" src="https://services.avatarinventory.lego.com/api/v1/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8/globalnavigation?fallback=https://mi-od-live-s.legocdn.com/r/account2/r/avatar/0b03fa59-681f-464e-8b66-b2111928a3e8"/>
+                
+            </a>
+		
+</div></div>
+	
+							
+		
+			<div class="lia-message-author-post-count">Posts: 1,581</div>
+		
+	
+							
+		
+			<div class="lia-message-author-registered-date">
+				Registered:
+				<span class="DateTime">
+    
+
+	
+		
+		
+		<span class="local-date">‎12-21-2010</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+			</div>
+		
+	
+							
+		<div class="lia-message-author-ipaddress"></div>
+	
+						
+				</div>
+			
+		
+	
+	
+</div>
+		</div><div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-right lia-quilt-column-main-right">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+	
+		
+			
+				<div class="lia-message-heading lia-component-message-header" class="lia-message-heading">
+					<div class="lia-quilt-row lia-quilt-row-standard">
+	
+						<div class="lia-quilt-column lia-quilt-column-20 lia-quilt-column-left">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+		
+							
+		<div class="lia-message-subject">
+			
+			
+			
+			
+			
+			<h2>Re: Moving Targets</h2>
+			<span class="lia-message-subject-status">
+				
+				
+			</span>
+		</div>
+	
+						
+	</div>
+</div>
+						<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-right">
+	<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+		
+							
+		<div class="lia-message-options">
+			<div class="lia-menu-navigation-wrapper lia-menu-action message-menu" class="lia-menu-navigation-wrapper" id="actionMenuDropDown_5">	
+	<div class="lia-menu-navigation">
+		<div class="dropdown-default-item"><a title="Show option menu" class="lia-js-menu-opener default-menu-option lia-js-mouseover-menu lia-link-navigation" id="dropDownLink_5" href="#">Options</a>
+			<div class="dropdown-positioning">
+				<div class="dropdown-positioning-static">
+					
+	<ul id="dropdownmenuitems_5" class="lia-menu-dropdown-items">
+		
+
+	
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation mark-message-unread lia-link-disabled lia-component-forums-action-mark-message-unread" id="markMessageUnread_4">Mark as New</span></li>
+		
+			
+		
+			
+		
+			
+		
+			<li><span class="lia-link-navigation addMessageUserBookmark lia-link-disabled lia-component-subscriptions-action-add-message-user-bookmark" id="addMessageUserBookmark_4">Bookmark</span></li>
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation rss-message-link lia-component-rss-action-message" id="rssMessage_4" href="/lego/rss/message?board.id=1440&amp;message.id=514022">Subscribe to RSS Feed</a></li>
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation highlight-message lia-component-forums-action-highlight-message" id="highlightMessage_4" href="https://community.lego.com/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12130840/highlight/true#M514022">Highlight</a></li>
+		
+			
+		
+			
+		
+			<li><a class="lia-link-navigation print-message lia-component-forums-action-print-message" id="printMessage_4" href="/t5/forums/forumtopicprintpage/board-id/1440/message-id/514022/print-single-message/true/page/1">Print</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			<li aria-hidden="true"><span class="lia-separator lia-component-common-widget-link-separator" class="lia-separator">
+	<span class="lia-separator-post"></span>
+	<span class="lia-separator-pre"></span>
+</span></li>
+		
+			<li><a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse_9" href="/t5/notifications/notifymoderatorpage/message-uid/12130840">REPORT POST</a></li>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	
+
+
+	</ul>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+	
+						
+	</div>
+</div>
+					
+</div>
+				</div>
+			
+		
+			
+				<p class="lia-message-dates lia-message-post-date lia-component-post-date-last-edited" class="lia-message-dates lia-message-post-date">
+					
+		 <span class="DateTime lia-message-posted-on lia-component-common-widget-date" class="DateTime lia-message-posted-on">
+    
+
+	
+		
+		
+		<span class="local-date">‎02-16-2015</span>
+	
+		
+		<span class="local-time">02:14 PM</span>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</span>
+	
+				</p>
+			
+		
+			
+				
+						
+		<div class="lia-message-body lia-component-body" id="messagebodydisplay_0_4" class="lia-message-body">
+	
+		<div class="lia-message-body-content">
+			
+                
+                    <P>If any of you lot were reading this, I'm now moving the story to another topic. It should have a similar if not the same name, but It will be labled "story" or something to make it more noticable, because it has yet to be noticed&nbsp;<img class="emoticon emoticon-crying" id="crying" src="https://lego.i.lithium.com/lego/i/emoticons/crying.png" alt="Crying" title="Crying" /></P><P>&nbsp;</P><P>This DOES NOT MEAN I AM GIVING UP. Far from it. I'm just remaking the format and... stuff. Yeah...</P><P>&nbsp;</P><P>keep reading it if you are already! Thanks!&nbsp;<img class="emoticon emoticon-happy" id="happy" src="https://lego.i.lithium.com/lego/i/emoticons/happy.png" alt="Happy" title="Happy" /></P>
+                
+            
+			
+				<div style="width:98%; max-height:100px; overflow:hidden;" class="UserSignature lia-message-signature">
+	The Maelstrom Minifigure, Knight Of The Old Speech, Time Lord.<BR /><BR />"Somebody once told me that knowledge is a sharper weapon than a sword. Before I charge into a fight, I could use a little more of that." - Toa Lesovikk.
+</div>
+			
+			
+				<div>
+	
+</div>
+			
+			
+            
+            
+            
+            
+		</div>
+		
+		
+	
+</div>
+
+		
+		
+		
+		
+	
+	
+					
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-notify lia-component-report-abuse" class="lia-message-notify">
+			<a class="lia-link-navigation report-abuse-link lia-component-forums-action-report-abuse" id="reportAbuse_10" href="/t5/notifications/notifymoderatorpage/message-uid/12130840">REPORT POST</a>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-statistics lia-component-position-in-thread" class="lia-message-statistics">
+			<span class="MessagesPositionInThread">
+	Message <a href="/t5/LEGO-UNIVERSE/Moving-Targets/m-p/12130840#M514022">6</a> of 6
+</span>
+			<span>(70 Views)</span>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-labels lia-component-labels" class="lia-message-labels">
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-tags lia-component-tags" class="lia-message-tags">
+			
+				
+				
+				
+			
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-classifications lia-component-classifications" class="lia-message-classifications">
+			<div class="MessageClassifications">
+	
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+		<div class="lia-message-actions lia-component-actions" class="lia-message-actions">
+			<div class="lia-button-group">
+	
+				
+		
+		<span class="lia-button-wrapper lia-button-wrapper-secondary"><a class="lia-button lia-button-secondary reply-action-link lia-action-reply" rel="nofollow" id="link_33" href="/t5/forums/replypage/board-id/1440/message-id/514022">Reply</a></span>
+	
+				
+		
+	
+				
+		<div class="lia-message-kudos">
+			<div class="KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2 lia-component-kudos-widget-button" data-lia-kudos-id="12130840" id="kudosButtonV2_4" class="KudosButton KudosButton lia-button-image-kudos-wrapper lia-component-kudos-widget-button-version-2">
+	
+		<div class="lia-button-image-kudos lia-button-image-kudos-horizontal lia-button-image-kudos-enabled lia-button-image-kudos-not-kudoed lia-button">
+		    
+    	
+        
+            <div class="lia-button-image-kudos-count">
+                <span class="lia-link-navigation kudos-count-link lia-link-disabled" title="The total number of likes this post has received." id="link_34">
+                    <span class="MessageKudosCount lia-component-kudos-widget-message-kudos-count" id="messageKudosCount_fd71d07329dfac" class="MessageKudosCount">
+	
+			0
+		
+</span><span class="lia-button-image-kudos-label lia-component-kudos-widget-kudos-count-label" class="lia-button-image-kudos-label">
+	 Likes
+</span>
+                </span>
+            </div>
+        
+	
+    	
+        <div title="Click here to give likes to this post." class="lia-button-image-kudos-give">
+            <a class="lia-link-navigation kudos-link lia-link-ticket-post-action" title="Click here to give likes to this post." data-lia-action-token="p8hymxHJqqvv_ooiTXAaaGA9d9azTLjvNYtaqKg9JhY." rel="nofollow" id="kudoEntity_4" href="https://community.lego.com/t5/forums/forumtopicpage.kudosbuttonv2.kudoentity:kudoentity/kudosable-gid/12130840?t:ac=board-id/1440/message-id/513216/thread-id/513216&amp;t:cp=kudos/contributions/tapletcontributionspage">
+                <span class="kudos-give-link-text">
+                   	
+                </span>
+                
+            </a>
+        </div>
+	
+    
+		</div>
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+</div>
+		</div>
+	
+				
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		<div class="lia-message-actions-secondary lia-component-secondary-actions" class="lia-message-actions-secondary">
+			<div class="lia-button-group">
+	
+				
+		
+	
+				
+		
+	
+			
+</div>
+		</div>
+	
+			
+		
+			
+				
+		
+	
+			
+		
+			
+				
+			
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-footer">
+		<div class="lia-quilt-column lia-quilt-column-04 lia-quilt-column-left lia-quilt-column-footer-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-inner lia-quilt-column-footer-center lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-footer-right lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-forum-message-quickreply">
+		<div class="lia-quilt-column lia-quilt-column-14 lia-quilt-column-left lia-quilt-column-quickreply-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-right lia-quilt-column-quickreply-right lia-mark-empty">
+			
+		</div>
+	</div>
+</div>
+	</div>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+    
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+					</div>
+				</div>
+			<div class="lia-decoration-border-bottom"><div> </div></div>
+		</div>
+	
+				
+				
+			</div>
+		</div>
+	
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_6"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+
+
+	
+
+	
+</div></div>
+	</div>
+</div>
+	</div>
+</div>
+	
+                
+
+                
+                
+                
+                
+            
+        
+    </div>
+    
+    
+        
+        
+            
+        
+        <div class="lia-menu-bar lia-menu-bar-bottom bottom-block" class="lia-menu-bar lia-menu-bar-bottom">
+	<div class="lia-decoration-border-menu-bar">
+		<div class="lia-decoration-border-menu-bar-top">
+			<div> </div>
+		</div>
+		<div class="lia-decoration-border-menu-bar-content">
+			<div>
+				
+				<div class="lia-menu-bar-buttons">
+					
+				</div>
+				
+					
+						
+                <div class="lia-paging-full-wrapper" id="threadnavigator_0">
+	<ul class="lia-paging-full">
+		
+	
+		
+			
+				<li class="lia-paging-page-previous lia-paging-page-listing lia-component-listing" class="lia-paging-page-previous lia-paging-page-listing">
+					<a class="lia-link-navigation" title="LEGO UNIVERSE" id="link_35" href="/t5/LEGO-UNIVERSE/bd-p/1440/page/17">
+						<span class="lia-paging-page-arrow">«</span> 
+						<span class="lia-paging-page-link">Message Listing</span>
+					</a>
+				</li>
+			
+		
+			
+				<li class="lia-paging-page-previous lia-component-previous" class="lia-paging-page-previous">
+					<a class="lia-link-navigation" title="~Red FireField~" id="link_36" href="https://community.lego.com/t5/LEGO-UNIVERSE/Red-FireField/td-p/3193314">
+						<span class="lia-paging-page-arrow">«</span> 
+						<span class="lia-paging-page-link">Previous Topic</span>
+					</a>
+				</li>
+			
+		
+			
+				<li class="lia-paging-page-next lia-component-next" class="lia-paging-page-next">
+					<a class="lia-link-navigation" title="I WANT EVERYONE TO READ THIS!!!" id="link_37" href="https://community.lego.com/t5/LEGO-UNIVERSE/I-WANT-EVERYONE-TO-READ-THIS/td-p/12006574">
+						<span class="lia-paging-page-link">Next Topic</span>
+						<span class="lia-paging-page-arrow">»</span>
+					</a>
+				</li>		
+			
+		
+	
+	
+
+	</ul>
+</div>
+            
+					
+				
+			</div>
+		</div>
+		<div class="lia-decoration-border-menu-bar-bottom">
+			<div> </div>
+		</div>
+	</div>
+</div>
+	
+    
+
+	
+
+	
+	
+	
+
+	
+
+</div>
+			
+			
+		
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-footer">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-footer">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+	
+		
+			<div class="lia-quilt lia-quilt-footer lia-quilt-layout-blog-message lia-component-quilt-footer" class="lia-quilt lia-quilt-footer lia-quilt-layout-blog-message">
+	<div class="lia-quilt-row lia-quilt-row-main">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-main lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-footer">
+		<div class="lia-quilt-column lia-quilt-column-16 lia-quilt-column-left lia-quilt-column-footer-left lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-08 lia-quilt-column-right lia-quilt-column-footer-right lia-mark-empty">
+			
+		</div>
+	</div>
+</div>
+		
+	
+	
+</div>
+		</div>
+	</div>
+</div>
+	
+
+	
+						</div>
+					
+			</div>								
+		</div>
+	</div>
+
+				
+			
+		</center>
+	</div>
+	
+	
+	
+	
+	
+	
+<script src="../../../../scripts/jammer.js"></script>
+<script src="../../../../scripts/ttopiclinks.js"></script>
+<script src="../../../../scripts/ttopicimg.js"></script>
