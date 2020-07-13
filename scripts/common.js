@@ -2,9 +2,7 @@ var dots = '';
 if (String(location.href.split("/").slice(-2, -1)) != 'html'){ dots = '../'; }
 document.getElementById('head').innerHTML = document.getElementById('head').innerHTML +  "<link rel='icon' href='"+dots+"../images/SwordandQuill.ico' type='image/x-icon'/>\
 <meta name='viewport' content='width=device-width, initial-scale=1.0'></meta>\
-<meta name='keywords' content='GDC, General Discussion Coalition, KOTOS, KotOS, Knights of the Olde Speech, LEGO, Wikis, stories, story, LU, LEGO Universe, LEGO Universe Story, books, LMB, LEGO Message Boards, LMB Archives, Talmid, fffffplayer1, Jonna, Samlooploop, Ninjago_Builders, Thingguy2, Thingguy, Haroldosaur, Lukey3449, Grongringro, Sharpie, EthanWS, theo-dog, Stirling'></meta><meta name='author' content='fffffplayer1 / Figroth Felanor'></meta>\
-<link rel='stylesheet' href='"+dots+"../css/common.css'></link>\
-<link rel='stylesheet' href='"+dots+"../css/slideshow.css'></link>";
+<meta name='keywords' content='GDC, General Discussion Coalition, KOTOS, KotOS, Knights of the Olde Speech, LEGO, Wikis, stories, story, LU, LEGO Universe, LEGO Universe Story, books, LMB, LEGO Message Boards, LMB Archives, Talmid, fffffplayer1, Jonna, Samlooploop, Ninjago_Builders, Thingguy2, Thingguy, Haroldosaur, Lukey3449, Grongringro, Sharpie, EthanWS, theo-dog, Stirling'></meta><meta name='author' content='fffffplayer1 / Figroth Felanor'></meta>";
 document.getElementById('navbar').innerHTML ='  <a href="'+dots+'index.html">Home</a>\
 <div class="dropdown"><button class="dropbtn" onclick="visitLink1()" onmouseover="navbarLink(this)" onmouseout="navbarLinkOut(this)">Wikis</button>\
 <div class="dropdown-content">  \
