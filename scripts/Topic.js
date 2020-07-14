@@ -1,6 +1,4 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import {topics} from './TopicList';
+const e = React.createElement;
 
 class messageIcon extends React.Component {
     render() {
@@ -110,3 +108,22 @@ class Topic extends React.Component {
         );
     }
 }
+
+class TopicList extends React.Component {
+
+    constructor(props) {
+        super(props);
+        this.location = window.location.split('/')[-1].split('.')[0];
+        this.page = 0;
+    }
+
+    render() {
+        let content = [];
+        for (this.i = 0; this.i < 22 && topic[this.location.][this.page][this.i] !== null; ++this.i)
+            content.push(<Topic location=this.location page=this.page i=this.i />);
+        return content;
+    }
+}
+
+const domContainer = document.querySelector('#topicListContainer');
+ReactDOM.render(e(TopicList), domContainer);
