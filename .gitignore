@@ -2,3 +2,5 @@
 atopics
 ttopics
 *.sh
+scripts/src
+scripts/node_modules

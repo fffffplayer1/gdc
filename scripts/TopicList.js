@@ -1,3 +1,45 @@
+var topics = {
+    "legouniverse" :
+    [
+        [
+            {
+                "hot" : true,
+                "link" : "legouniverse/2889771/2889771",
+                "name" : "Knights of Old Speech Talk Forum",
+                "replies" : 9520,
+                "user" : "lukey3449",
+                "year" : 2016,
+                "lastuser" : "miakittymoon"
+
+            },
+            {
+                "hot" : true,
+                "link" : "legouniverse/2661007/2661007",
+                "name" : "Imagination Infection-Story",
+                "replies" : 4697,
+                "user" : "Samlooploop",
+                "year" : 2016,
+                "lastuser" : "ClutchPowers99"
+            },
+            {
+                "hot" : true,
+                "link" : "legouniverse/2386431/2386431",
+                "name" : "Crux Origins: The First Crux Wars",
+                "replies" : 3131,
+                "user" : "majorq10hero",
+                "year" : 2016,
+                "lastuser" : "JamesAT13"
+            }
+        ]
+    ]
+};
+
+console.log(topics["legouniverse"]);
+console.log(topics["legouniverse"][0]);
+console.log(topics["legouniverse"][0][0]);
+console.log(topics["legouniverse"][0][0]["link"]);
+
+
 /*
  * topics["legouniverse"][0][0]["hot"] =
  * topics["legouniverse"][0][0]["link"] =
@@ -7,27 +49,3 @@
  * topics["legouniverse"][0][0]["year"] =
  * topics["legouniverse"][0][0]["lastuser"] =
  */
-
-topics["legouniverse"][0][0]["hot"] = true;
-topics["legouniverse"][0][0]["link"] = "legouniverse/2889771/2889771";
-topics["legouniverse"][0][0]["name"] = "Knights of Old Speech Talk Forum";
-topics["legouniverse"][0][0]["replies"] = 9520;
-topics["legouniverse"][0][0]["user"] = "lukey3449";
-topics["legouniverse"][0][0]["year"] = 2017;
-topics["legouniverse"][0][0]["lastuser"] = "miakittymoon";
-
-topics["legouniverse"][0][1]["hot"] = true;
-topics["legouniverse"][0][1]["link"] = "legouniverse/2386431/2386431";
-topics["legouniverse"][0][1]["name"] = "Crux Origins: The First Crux Wars";
-topics["legouniverse"][0][1]["replies"] = 3131;
-topics["legouniverse"][0][1]["user"] = "majorq10hero";
-topics["legouniverse"][0][1]["year"] = 2016;
-topics["legouniverse"][0][1]["lastuser"] = "JamesAT13";
-
-topics["legouniverse"][0][1]["hot"] = true;
-topics["legouniverse"][0][1]["link"] = "legouniverse/2661007/26610071";
-topics["legouniverse"][0][1]["name"] = "Imagination Infection-Story";
-topics["legouniverse"][0][1]["replies"] = 3131;
-topics["legouniverse"][0][1]["user"] = "Samlooploop";
-topics["legouniverse"][0][1]["year"] = 2016;
-topics["legouniverse"][0][1]["lastuser"] = "JamesAT13";
