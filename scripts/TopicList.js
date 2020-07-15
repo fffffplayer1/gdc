@@ -5,7 +5,7 @@ var topics = {
             {
                 "hot" : true,
                 "link" : "legouniverse/2889771/2889771",
-                "name" : "Knights of Old Speech Talk Forum",
+                "name" : "Knights of Old-Speech Talk Forum!!!",
                 "replies" : 9520,
                 "user" : "lukey3449",
                 "year" : 2016,
