@@ -6,8 +6,6 @@ function _possibleConstructorReturn(self, call) { if (!self) { throw new Referen
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
-var e = React.createElement;
-
 var MessageIcon = function (_React$Component) {
     _inherits(MessageIcon, _React$Component);
 
@@ -213,9 +211,9 @@ var TopicList = function (_React$Component3) {
         var _this3 = _possibleConstructorReturn(this, (TopicList.__proto__ || Object.getPrototypeOf(TopicList)).call(this, props));
 
         console.log(topics);
-        _this3.location = location.href.split('/').slice(-1)[0].split('.')[0];
+        _this3.location = location.href.split('/').slice(-2)[0];
         console.log(_this3.location);
-        _this3.page = 0;
+        _this3.page = location.href.split('/').slice(-1)[0].split('.')[0] - 1;
         return _this3;
     }
 
