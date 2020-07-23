@@ -4,3 +4,5 @@ ttopics
 *.sh
 scripts/src
 scripts/node_modules
+scripts/ttopiclinks0.js
+*bkp.js
