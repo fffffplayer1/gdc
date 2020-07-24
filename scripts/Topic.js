@@ -156,7 +156,7 @@ var Topic = function (_React$Component2) {
                             React.createElement(
                                 "a",
                                 { className: "lia-link-navigation", key: "link_{this.props.i + 18}",
-                                    href: "#" },
+                                    href: topics[this.props.location][this.props.page][this.props.i]["link"].split('/').slice(-1)[0] + '/' + Math.ceil(topics[this.props.location][this.props.page][this.props.i]["replies"] / 15) },
                                 React.createElement(
                                     "span",
                                     { className: "DateTime" },
