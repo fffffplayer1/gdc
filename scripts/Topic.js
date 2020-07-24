@@ -211,9 +211,12 @@ var TopicList = function (_React$Component3) {
         var _this3 = _possibleConstructorReturn(this, (TopicList.__proto__ || Object.getPrototypeOf(TopicList)).call(this, props));
 
         console.log(topics);
-        _this3.location = location.href.split('/').slice(-2)[0];
-        console.log(_this3.location);
-        _this3.page = location.href.split('/').slice(-1)[0].split('.')[0] - 1;
+        _this3.location = location.href.split('/').slice(-1)[0].split('.')[0];
+        _this3.page = 0;
+        if (_this3.location == '1') {
+            _this3.location = location.href.split('/').slice(-2)[0];
+            _this3.page = location.href.split('/').slice(-1)[0].split('.')[0] - 1;
+        }
         return _this3;
     }
 

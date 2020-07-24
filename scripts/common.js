@@ -15,6 +15,7 @@ document.getElementById('navbar').innerHTML ='  <a href="'+dots+'index.html">Hom
 <div class="dropdown">  <button class="dropbtn" onclick="visitLink2()" onmouseover="navbarLink(this)" onmouseout="navbarLinkOut(this)">LMB Archives</button>      \
 <div class="dropdown-content">    \
 <a href="'+dots+'lmbtopics/legouniverse/1">LEGO Universe</a>    \
+<a href="'+dots+'lmbtopics/bionicle">Old Bionicle Roleplay</a>    \
 <a href="'+dots+'lmbtopics/classics.html">Classics</a>    \
 <a href="#">Coming Soon (Maybe)</a>  \
 </div> </div> \

@@ -219,5 +219,30 @@ var topics =
             {"link": "2336143/2336143", "user": "Wishsolen", "replies": 8807, "lastuser": "ethanthoele", "year": "2015", "hot": true, "name": "^^^The Void Empire^^^"},
             {"link": "8347278/8347278", "user": "fffffplayer1", "replies": 423, "lastuser": "fffffplayer1", "year": "2014", "hot": true, "name": "Vanguard Outpost"}
         ]
+    ],
+    "bionicle":
+    [
+        [
+            {"replies": 4176, "year": "2016", "lastuser": "RocketRacer7235", "link": "bionicle/13371214/13371214", "user": "BIONICHARGE", "hot": true, "name": "Atero Nui - City of the Great Spirit"},
+            {"replies": 451, "year": "2016", "lastuser": "lordbio123", "link": "bionicle/13237745/13237745", "user": "BIONICHARGE", "hot": true, "name": "Av-Ta-Su-Wahi"},
+            {"replies": 3970, "year": "2016", "lastuser": "RocketRacer7235", "link": "bionicle/9031953/9031953", "user": "WhiteAlligator", "hot": true, "name": "BIONICLE Roleplay Discussion"},
+            {"replies": 4509, "year": "2016", "lastuser": "srlojohn", "link": "bionicle/651443/651443", "user": "geekynerd", "hot": true, "name": "DARK HUNTERS HQ 2"},
+            {"replies": 167, "year": "2016", "lastuser": "Macedonia", "link": "bionicle/13237748/13237748", "user": "BIONICHARGE", "hot": true, "name": "Fe-Vo-Fa-Wahi"},
+            {"replies": 790, "year": "2016", "lastuser": "keiththelegokid", "link": "bionicle/12142030/12142030", "user": "BIONICHARGE", "hot": true, "name": "Foros - Bota Magna Tribes HQ"},
+            {"replies": 2208, "year": "2014", "lastuser": "keplers", "link": "bionicle/2883248/2883248", "user": "LQ1998", "hot": true, "name": "Fort Metru"},
+            {"replies": 471, "year": "2016", "lastuser": "A_RNN", "link": "bionicle/13237752/13237752", "user": "BIONICHARGE", "hot": true, "name": "Ko-De-Ce-Kra-Wahi"},
+            {"replies": 791, "year": "2016", "lastuser": "Macedonia", "link": "bionicle/13237750/13237750", "user": "BIONICHARGE", "hot": true, "name": "Le-Bo-Ga-Wahi"},
+            {"replies": 28006, "year": "2016", "lastuser": "ar9914", "link": "bionicle/734084/734084", "user": "Villianstoper", "hot": true, "name": "MAKUTA HQ 3"},
+            {"replies": 8070, "year": "2016", "lastuser": "tahu-of-fire", "link": "bionicle/1290411/1290411", "user": "galkak", "hot": true, "name": "MATORAN HQ"},
+            {"replies": 300, "year": "2014", "lastuser": "youngjusticeforever", "link": "bionicle/9089117/9089117", "user": "WhiteAlligator", "hot": true, "name": "New Roleplay Guidelines Discussion [Incomplete]"},
+            {"replies": 10460, "year": "2016", "lastuser": "keiththelegokid", "link": "bionicle/838199/838199", "user": "jgenal", "hot": true, "name": "ORDER OF MATA NUI HQ 3"},
+            {"replies": 557, "year": "2016", "lastuser": "RocketRacer7235", "link": "bionicle/13237755/13237755", "user": "BIONICHARGE", "hot": true, "name": "Po-Onu-Ov-Ba-Wahi"},
+            {"replies": 2073, "year": "2016", "lastuser": "A_RNN", "link": "bionicle/7618826/7618826", "user": "Malurus2000", "hot": true, "name": "Practice Arena!!!"},
+            {"replies": 3776, "year": "2016", "lastuser": "mrcqm", "link": "bionicle/8064702/8064702", "user": "keplers", "hot": true, "name": "Profiles!"},
+            {"replies": 30, "year": "2016", "lastuser": "commandercody113", "link": "bionicle/13514121/13514121", "user": "keplers", "hot": true, "name": "RP Technological Library [Incomplete]"},
+            {"replies": 15325, "year": "2016", "lastuser": "keplers", "link": "bionicle/831620/831620", "user": "suprseth", "hot": true, "name": "TOA HQ 4!"},
+            {"replies": 3212, "year": "2015", "lastuser": "lordbio123", "link": "bionicle/2895777/2895777", "user": "Facundo141", "hot": true, "name": "VORTIXX HQ"},
+            {"replies": 442, "year": "2016", "lastuser": "A_RNN", "link": "bionicle/13239488/13239488", "user": "A_RNN", "hot": true, "name": "Xia Renewed!"}
+        ]
     ]
 };
