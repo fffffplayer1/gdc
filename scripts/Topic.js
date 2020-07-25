@@ -213,7 +213,7 @@ var TopicList = function (_React$Component3) {
         console.log(topics);
         _this3.location = location.href.split('/').slice(-1)[0].split('.')[0];
         _this3.page = 0;
-        if (_this3.location == '1') {
+        if (_this3.location > '0' && _this3.location <= '9') {
             _this3.location = location.href.split('/').slice(-2)[0];
             _this3.page = location.href.split('/').slice(-1)[0].split('.')[0] - 1;
         }
