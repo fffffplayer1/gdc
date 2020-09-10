@@ -224,7 +224,7 @@ var TopicList = function (_React$Component3) {
         key: "render",
         value: function render() {
             var content = [];
-            for (this.i = 0; this.i < 22 && topics[this.location][this.page][this.i] !== undefined; ++this.i) {
+            for (this.i = 0; this.i < 23 && topics[this.location][this.page][this.i] !== undefined; ++this.i) {
                 content.push(React.createElement(Topic, { key: 'topic_' + this.i, location: this.location, page: this.page, i: this.i }));
             }return content;
         }
